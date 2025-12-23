@@ -72,28 +72,48 @@ for (let i = 0; i < md.length; i++) {
     currentQ = { correct: '', errors: [] }
     continue
   }
-  if (!collecting || !currentUnit) continue
-  if (t.replace(/\s+/g, '') === '---') {
-    // separator; subsequent non-empty quote lines go to errors
-    if (currentQ.correct === '') {
-      // if missing before, look back to find previous quoted line
+  if (!currentUnit) continue
+  // detect separator lines, including quoted '---'
+  const bare = trimQuote(t)
+  if (bare.replace(/\s+/g, '') === '---') {
+    if (!collecting) {
+      collecting = true
+      currentQ = { correct: '', errors: [] }
     }
     currentQ._afterSep = true
     continue
   }
   if (t.startsWith('>')) {
+    if (!collecting) {
+      collecting = true
+      currentQ = { correct: '', errors: [] }
+    }
     const content = trimQuote(t)
     if (!content) continue
     if (!currentQ._afterSep) {
-      // first non-empty quoted line before --- is correct
       if (!currentQ.correct) currentQ.correct = content
     } else {
       if (currentQ.errors.length < 3) currentQ.errors.push(content)
     }
+    // auto-finalize if we already have three errors
+    if (currentQ._afterSep && currentQ.errors.length === 3) {
+      const bucket = store[currentUnit]
+      if (currentBlock === 'fpl') {
+        const arr = bucket.fpl[currentSub || 'short']
+        arr.push(currentQ)
+      } else if (currentBlock === 'unit') {
+        const arr = bucket.unit[currentSub || 'short']
+        arr.push(currentQ)
+      } else if (currentBlock === 'new') {
+        bucket.new.push(currentQ)
+      }
+      collecting = false
+      currentQ = null
+      continue
+    }
     // lookahead: if next significant line is number or header, finalize
     const next = (md[i + 1] || '').trim()
     if (/^\d+[\.|,]?$/.test(next) || next.startsWith('###') || next.startsWith('####') || next.startsWith('##')) {
-      // finalize this question into store
       const bucket = store[currentUnit]
       if (currentBlock === 'fpl') {
         const arr = bucket.fpl[currentSub || 'short']
