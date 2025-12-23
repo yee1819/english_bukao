@@ -1,0 +1,3200 @@
+{
+    "u1": {
+        "new": [
+            {
+                "question": [
+                    {
+                        "error_options": [
+                            "It is an American baseball game.",
+                            "It is an American basketball game.",
+                            "It is an American television program."
+                        ],
+                        "answer": {
+                            "text": "It is an American football game.",
+                            "translation": "这是一场足球比赛。",
+                            "word": [
+                                {
+                                    "word": "American",
+                                    "translate": "adj. 美国的；美式的"
+                                },
+                                {
+                                    "word": "football",
+                                    "translate": "n. 足球）"
+                                },
+                                {
+                                    "word": "game",
+                                    "translate": "n. 比赛；游戏"
+                                },
+                                {
+                                    "word": "is",
+                                    "translate": "v. 是（be 动词第三人称单数）"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "error_options": [
+                            "Carolina Panthers.",
+                            "California Levi's.",
+                            "Chicago Bulls."
+                        ],
+                        "answer": {
+                            "text": "Denver Broncos.",
+                            "translation": "丹佛野马队。",
+                            "word": [
+                                {
+                                    "word": "Denver",
+                                    "translate": "n. 丹佛（美国城市名）"
+                                },
+                                {
+                                    "word": "Broncos",
+                                    "translate": "n. 野马队（美国橄榄球队名）"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "question": [
+                    {
+                        "error_options": [
+                            "Feedback from people using the brain training app of Lumos Labs.",
+                            "Lumos Labs lying to customers about its games.",
+                            "How Lumosity can improve brain health."
+                        ],
+                        "answer": {
+                            "text": "Lumos Labs fined for deceiving customers about the benefits of its products.",
+                            "translation": "Lumos Labs 因就其产品功效误导消费者而被罚款。",
+                            "word": [
+                                {
+                                    "word": "fined",
+                                    "translate": "v. 罚款"
+                                },
+                                {
+                                    "word": "deceiving",
+                                    "translate": "v. 欺骗；误导"
+                                },
+                                {
+                                    "word": "customers",
+                                    "translate": "n. 顾客；消费者"
+                                },
+                                {
+                                    "word": "benefits",
+                                    "translate": "n. 好处；益处"
+                                },
+                                {
+                                    "word": "products",
+                                    "translate": "n. 产品"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "error_options": [
+                            "You need to play Lumosity games 15 times a week to see any improvement.",
+                            "Playing Lumosity can improve your overall health.",
+                            "People who play Lumosity can perform better at work and in school."
+                        ],
+                        "answer": {
+                            "text": "There are over 70 million registered users playing Lumosity worldwide.",
+                            "translation": "全球有超过七千万注册用户在使用 Lumosity。",
+                            "word": [
+                                {
+                                    "word": "over",
+                                    "translate": "prep. 超过"
+                                },
+                                {
+                                    "word": "registered",
+                                    "translate": "adj. 注册的"
+                                },
+                                {
+                                    "word": "users",
+                                    "translate": "n. 用户"
+                                },
+                                {
+                                    "word": "worldwide",
+                                    "translate": "adv. 在全世界范围内"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "further practice in listening": {
+            "short": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "At home.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Jack Kilby is not very well-known.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Charlie Chaplin's films are very creative.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "The light bulb.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "long": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Take her cousin to see a new *Harry Potter* movie.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "On a train.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "She hasn't said anything about her future plans.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "passage": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "He spilled the milk over the kitchen floor.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "She cleaned up the mess with him.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "How to carry a milk bottle.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "unit test": {
+            "short": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "The woman enjoyed the foods at Jenny's party very much.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "He was bored.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Because Rob has found Suzie unfaithful.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Her opinion towards love is influenced by her sister's experience.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Dogs.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "long": [
+                {
+                    "question": [
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "question": [
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "u2": {
+        "new": [
+            {
+                "question": [
+                    {
+                        "error_options": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "answer": {
+                            "text": "How professional athletes are using yoga in their training.",
+                            "translation": "this is a test",
+                            "word": [
+                                {
+                                    "word": "test",
+                                    "translate": "v. 测试"
+                                },
+                                {
+                                    "word": "this",
+                                    "translate": "n. 这个"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "error_options": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "answer": {
+                            "text": "Yoga can help with energy levels.",
+                            "translation": "this is a test",
+                            "word": [
+                                {
+                                    "word": "test",
+                                    "translate": "v. 测试"
+                                },
+                                {
+                                    "word": "this",
+                                    "translate": "n. 这个"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "question": [
+                    {
+                        "error_options": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "answer": {
+                            "text": "The popularity of the musical *Hamilton*.",
+                            "translation": "this is a test",
+                            "word": [
+                                {
+                                    "word": "test",
+                                    "translate": "v. 测试"
+                                },
+                                {
+                                    "word": "this",
+                                    "translate": "n. 这个"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "error_options": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "answer": {
+                            "text": "Men helping with childcare.",
+                            "translation": "this is a test",
+                            "word": [
+                                {
+                                    "word": "test",
+                                    "translate": "v. 测试"
+                                },
+                                {
+                                    "word": "this",
+                                    "translate": "n. 这个"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "further practice in listening": {
+            "short": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "He had to handle something unexpected.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Writing a term paper on *Hamlet*.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "He doesn't know how to appreciate music.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Their different college lives.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "long": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Because it can help him forget all his troubles.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "To go to the beach.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Enjoying the warm sun on the beach.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "passage": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "89 percent.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "People aged 25 to 34.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "People aged 16 to 24 preferred listening to music most.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Older people spend more time reading and gardening.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "unit test": {
+            "short": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Fast music can give people energy according to the man.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Have a short break.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "It's terrible.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "She will outperform the man.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "He was too sick to go.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "long": [
+                {
+                    "question": [
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "14.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "15 months.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "He talks about nothing but computers.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "To give Billy a birthday present.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "Michael knows how to use computers properly.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "question": [
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "Students think music is important.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "They listen to music whenever they are free.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "It was the most popular style.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "Parents have very little influence on their children.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "She won the spelling competition at her school.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "u3": {
+        "new": [
+            {
+                "question": [
+                    {
+                        "error_options": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "answer": {
+                            "text": "this is a test",
+                            "translation": "this is a test",
+                            "word": [
+                                {
+                                    "word": "test",
+                                    "translate": "v. 测试"
+                                },
+                                {
+                                    "word": "this",
+                                    "translate": "n. 这个"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "error_options": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "answer": {
+                            "text": "this is a test",
+                            "translation": "this is a test",
+                            "word": [
+                                {
+                                    "word": "test",
+                                    "translate": "v. 测试"
+                                },
+                                {
+                                    "word": "this",
+                                    "translate": "n. 这个"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "question": [
+                    {
+                        "error_options": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "answer": {
+                            "text": "this is a test",
+                            "translation": "this is a test",
+                            "word": [
+                                {
+                                    "word": "test",
+                                    "translate": "v. 测试"
+                                },
+                                {
+                                    "word": "this",
+                                    "translate": "n. 这个"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "error_options": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "answer": {
+                            "text": "this is a test",
+                            "translation": "this is a test",
+                            "word": [
+                                {
+                                    "word": "test",
+                                    "translate": "v. 测试"
+                                },
+                                {
+                                    "word": "this",
+                                    "translate": "n. 这个"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "further practice in listening": {
+            "short": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "long": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "passage": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "unit test": {
+            "short": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "long": [
+                {
+                    "question": [
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "question": [
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "u4": {
+        "new": [
+            {
+                "question": [
+                    {
+                        "error_options": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "answer": {
+                            "text": "Australia's coastal and water experiences.",
+                            "translation": "this is a test",
+                            "word": [
+                                {
+                                    "word": "test",
+                                    "translate": "v. 测试"
+                                },
+                                {
+                                    "word": "this",
+                                    "translate": "n. 这个"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "error_options": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "answer": {
+                            "text": "Distinct travel experiences in Australia.",
+                            "translation": "this is a test",
+                            "word": [
+                                {
+                                    "word": "test",
+                                    "translate": "v. 测试"
+                                },
+                                {
+                                    "word": "this",
+                                    "translate": "n. 这个"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "question": [
+                    {
+                        "error_options": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "answer": {
+                            "text": "It represents one of the latest smell technology developments.",
+                            "translation": "this is a test",
+                            "word": [
+                                {
+                                    "word": "test",
+                                    "translate": "v. 测试"
+                                },
+                                {
+                                    "word": "this",
+                                    "translate": "n. 这个"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "error_options": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "answer": {
+                            "text": "It uses lasers to identify explosive material in gases in the air.",
+                            "translation": "this is a test",
+                            "word": [
+                                {
+                                    "word": "test",
+                                    "translate": "v. 测试"
+                                },
+                                {
+                                    "word": "this",
+                                    "translate": "n. 这个"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "further practice in listening": {
+            "short": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "By train.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "10:40.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "The No. 28 bus doesn't go to her house anymore.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "He understands why it's getting difficult to find a parking space.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "long": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "1.5 hours.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "At 7.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "She can go shopping on her way home from work.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "passage": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "About half an hour.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "More and more Americans spend over an hour getting to work.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Because he can have his favorite lifestyle.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "unit test": {
+            "short": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "The man was offering to give his seat to the woman.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "By bus.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "He feels impatient.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "The woman has a choice of early flights.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "long": [
+                {
+                    "question": [
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "A madhouse.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "He hates Los Angeles and does not want to be there again.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "In cash.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "A special salad.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "Some like to fly, some others not.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "question": [
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "Share their fears with each other.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "It can create a small world of your own.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "Do something that engages your mind to forget the fear.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "u5": {
+        "new": [
+            {
+                "question": [
+                    {
+                        "error_options": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "answer": {
+                            "text": "To promote the benefits of Boryeong mud cosmetics.",
+                            "translation": "this is a test",
+                            "word": [
+                                {
+                                    "word": "test",
+                                    "translate": "v. 测试"
+                                },
+                                {
+                                    "word": "this",
+                                    "translate": "n. 这个"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "error_options": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "answer": {
+                            "text": "It attracts many visitors worldwide.",
+                            "translation": "this is a test",
+                            "word": [
+                                {
+                                    "word": "test",
+                                    "translate": "v. 测试"
+                                },
+                                {
+                                    "word": "this",
+                                    "translate": "n. 这个"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "question": [
+                    {
+                        "error_options": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "answer": {
+                            "text": "China outpacing the US in exporting cultural goods.",
+                            "translation": "this is a test",
+                            "word": [
+                                {
+                                    "word": "test",
+                                    "translate": "v. 测试"
+                                },
+                                {
+                                    "word": "this",
+                                    "translate": "n. 这个"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "error_options": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "answer": {
+                            "text": "this is a test",
+                            "translation": "this is a test",
+                            "word": [
+                                {
+                                    "word": "test",
+                                    "translate": "v. 测试"
+                                },
+                                {
+                                    "word": "this",
+                                    "translate": "n. 这个"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "further practice in listening": {
+            "short": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Because he will have a visitor.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "They have agreed on when to have another discussion.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "She has bought too many gifts.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "They don't have enough money for a vacation.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "long": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "She liked the decorations in Jason's front yard.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "She wants to go to Linda's party.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "They will play a new game called \"Guess Who\".",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "passage": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Some stores opened much earlier than they used to.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "To beat other stores for sales.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "23.5 percent.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "unit test": {
+            "short": [
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "Getting some sleep.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "She will entertain a visitor.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "A two-week trip to Europe.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "France.",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "error_options": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": {
+                        "text": "this is a test",
+                        "translation": "this is a test",
+                        "word": [
+                            {
+                                "word": "test",
+                                "translate": "v. 测试"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "long": [
+                {
+                    "question": [
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "It's cold.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "The museums.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "It is the most famous historical building there.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "In the morning.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "It began in Ireland to celebrate the harvest.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "question": [
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "To avoid sickness and other problems.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "In the 19th century.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "Play a trick on you.",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "error_options": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "answer": {
+                                "text": "this is a test",
+                                "translation": "this is a test",
+                                "word": [
+                                    {
+                                        "word": "test",
+                                        "translate": "v. 测试"
+                                    },
+                                    {
+                                        "word": "this",
+                                        "translate": "n. 这个"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,4136 @@
+{
+    "u1t1": {
+        "1": {
+            "title": "What have the prospects for Chinese national rejuvenation been predominantly guided by?",
+            "titleTranslate": "中国民族复兴的前景主要是由什么所指引的",
+            "word": [
+                {
+                    "word": "prospects",
+                    "translate": "n.前景；前途"
+                },
+                {
+                    "word": "national rejuvenation",
+                    "translate": "民族复兴"
+                },
+                {
+                    "word": "predominantly",
+                    "translate": "adv. 主要地；以……为主"
+                },
+                {
+                    "word": "guide / guided",
+                    "translate": "v. 指引；引导"
+                },
+                {
+                    "word": "by",
+                    "translate": "prep.由"
+                },
+                {
+                    "phrase": "prospects for …",
+                    "translate": "……的前景"
+                },
+                {
+                    "phrase": "national rejuvenation",
+                    "translate": "民族复兴"
+                },
+                {
+                    "phrase": "be guided by …",
+                    "translate": "由……所指引"
+                },
+                {
+                    "phrase": "predominantly guided by …",
+                    "translate": "主要由……所指引"
+                }
+            ],
+            "answer": {
+                "title": "Leadership of the Party",
+                "titleTranslate": "党的领导",
+                "word": [
+                    {
+                        "word": "leadership",
+                        "translate": "n. 领导；领导地位"
+                    },
+                    {
+                        "word": "Party",
+                        "translate": "n. 政党；（特指）党"
+                    },
+                    {
+                        "word": "of",
+                        "translate": "prep. ……的"
+                    },
+                    {
+                        "phrase": "leadership of the Party",
+                        "translate": "党的领导"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "The Chinese youth movement",
+                "Economic development",
+                "International trade relations"
+            ]
+        },
+        "2": {
+            "title": "Which of the following is NOT a requirement of President Xi for Chinese youths to realize the Chinese dream of national rejuvenation",
+            "titleTranslate": "以下哪一项不是习近平主席对中国青年实现中华民族伟大复兴中国梦的要求？",
+            "word": [
+                {
+                    "word": "which",
+                    "translate": "pron. 哪一个"
+                },
+                {
+                    "word": "following",
+                    "translate": "n. 下列事物；以下内容"
+                },
+                {
+                    "word": "requirement",
+                    "translate": "n. 要求；必要条件"
+                },
+                {
+                    "word": "President Xi",
+                    "translate": "习近平主席"
+                },
+                {
+                    "word": "youths",
+                    "translate": "n. 青年（复数）"
+                },
+                {
+                    "word": "realize",
+                    "translate": "v. 实现"
+                },
+                {
+                    "word": "Chinese dream",
+                    "translate": "中国梦"
+                },
+                {
+                    "word": "national rejuvenation",
+                    "translate": "民族复兴"
+                },
+                {
+                    "phrase": "which of the following",
+                    "translate": "以下哪一项"
+                },
+                {
+                    "phrase": "a requirement of …",
+                    "translate": "……的要求之一"
+                },
+                {
+                    "phrase": "NOT a requirement of …",
+                    "translate": "不是……的要求"
+                },
+                {
+                    "phrase": "realize the Chinese dream",
+                    "translate": "实现中国梦"
+                },
+                {
+                    "phrase": "the Chinese dream of national rejuvenation",
+                    "translate": "中华民族伟大复兴的中国梦"
+                }
+            ],
+            "answer": {
+                "title": "Accept existing conditions in society",
+                "titleTranslate": "接受社会中现有的状况",
+                "word": [
+                    {
+                        "word": "accept",
+                        "translate": "v. 接受"
+                    },
+                    {
+                        "word": "existing",
+                        "translate": "adj. 现有的；现存的"
+                    },
+                    {
+                        "word": "conditions",
+                        "translate": "n. 状况；条件（复数）"
+                    },
+                    {
+                        "word": "society",
+                        "translate": "n. 社会"
+                    },
+                    {
+                        "phrase": "existing conditions",
+                        "translate": "现有状况"
+                    },
+                    {
+                        "phrase": "conditions in society",
+                        "translate": "社会中的状况"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Deserve the trust of the nation",
+                "Meet the demands of the CPC and the people",
+                "Firmly follow the CPC and cooperate with others"
+            ]
+        },
+        "3": {
+            "title": "According to President Xi, what makes China’s youth such a powerful element among the forces of society",
+            "titleTranslate": "根据习近平主席的说法，是什么使中国青年成为社会力量中如此强大的一支？",
+            "word": [
+                {
+                    "word": "according to",
+                    "translate": "prep. 根据；依照"
+                },
+                {
+                    "word": "President Xi",
+                    "translate": "习近平主席"
+                },
+                {
+                    "word": "youth",
+                    "translate": "n. 青年（集合名词）"
+                },
+                {
+                    "word": "powerful",
+                    "translate": "adj. 强大的；有力量的"
+                },
+                {
+                    "word": "element",
+                    "translate": "n. 要素；因素；组成部分"
+                },
+                {
+                    "word": "forces",
+                    "translate": "n. 力量；势力（复数）"
+                },
+                {
+                    "word": "society",
+                    "translate": "n. 社会"
+                },
+                {
+                    "phrase": "according to President Xi",
+                    "translate": "根据习近平主席的说法"
+                },
+                {
+                    "phrase": "China’s youth",
+                    "translate": "中国青年"
+                },
+                {
+                    "phrase": "a powerful element",
+                    "translate": "强大的因素"
+                },
+                {
+                    "phrase": "the forces of society",
+                    "translate": "社会力量"
+                }
+            ],
+            "answer": {
+                "title": "Its action and energy",
+                "titleTranslate": "它的行动力和活力",
+                "word": [
+                    {
+                        "word": "action",
+                        "translate": "n. 行动；行动力"
+                    },
+                    {
+                        "word": "energy",
+                        "translate": "n. 精力；活力；能量"
+                    },
+                    {
+                        "word": "its",
+                        "translate": "pron. 它的"
+                    },
+                    {
+                        "phrase": "action and energy",
+                        "translate": "行动与活力"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Its honesty and sincerity",
+                "Its dependability and responsibility",
+                "Its loyalty and dedication"
+            ]
+        },
+        "4": {
+            "title": "According the President Xi, which of the following will enable China’s youth to build a powerful nation",
+            "titleTranslate": "根据习近平主席的说法，以下哪一项将使中国青年能够建设强大的国家？",
+            "word": [
+                {
+                    "word": "according to",
+                    "translate": "prep. 根据；依照"
+                },
+                {
+                    "word": "President Xi",
+                    "translate": "习近平主席"
+                },
+                {
+                    "word": "which",
+                    "translate": "pron. 哪一个"
+                },
+                {
+                    "word": "following",
+                    "translate": "n. 下列事物；以下内容"
+                },
+                {
+                    "word": "enable",
+                    "translate": "v. 使能够；使有能力"
+                },
+                {
+                    "word": "youth",
+                    "translate": "n. 青年（集合名词）"
+                },
+                {
+                    "word": "build",
+                    "translate": "v. 建设；建造"
+                },
+                {
+                    "word": "powerful",
+                    "translate": "adj. 强大的"
+                },
+                {
+                    "word": "nation",
+                    "translate": "n. 国家"
+                },
+                {
+                    "phrase": "according to President Xi",
+                    "translate": "根据习近平主席的说法"
+                },
+                {
+                    "phrase": "which of the following",
+                    "translate": "以下哪一项"
+                },
+                {
+                    "phrase": "enable … to do …",
+                    "translate": "使……能够做……"
+                },
+                {
+                    "phrase": "build a powerful nation",
+                    "translate": "建设强大的国家"
+                }
+            ],
+            "answer": {
+                "title": "Possessing great ideals and firm beliefs",
+                "titleTranslate": "拥有远大理想和坚定信念",
+                "word": [
+                    {
+                        "word": "possess / possessing",
+                        "translate": "v. 拥有；具备"
+                    },
+                    {
+                        "word": "great",
+                        "translate": "adj. 伟大的；远大的"
+                    },
+                    {
+                        "word": "ideal / ideals",
+                        "translate": "n. 理想"
+                    },
+                    {
+                        "word": "firm",
+                        "translate": "adj. 坚定的；稳固的"
+                    },
+                    {
+                        "word": "belief / beliefs",
+                        "translate": "n. 信念；信仰"
+                    },
+                    {
+                        "phrase": "great ideals",
+                        "translate": "远大理想"
+                    },
+                    {
+                        "phrase": "firm beliefs",
+                        "translate": "坚定信念"
+                    },
+                    {
+                        "phrase": "possess great ideals and firm beliefs",
+                        "translate": "拥有远大理想和坚定信念"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Receiving a quality education",
+                "Being worldly and well-traveled",
+                "Pursuing fulfilling careers"
+            ]
+        },
+        "5": {
+            "title": "What does the saying “A person who aspires to be a saint will become a saint; and a person who aspires to be a sage will become a sage” mean",
+            "titleTranslate": "谚语“立志成圣者可成圣，立志成贤者可成贤”是什么意思？",
+            "word": [
+                {
+                    "word": "saying",
+                    "translate": "n. 谚语；格言"
+                },
+                {
+                    "word": "aspire / aspires",
+                    "translate": "v. 立志；渴望"
+                },
+                {
+                    "word": "saint",
+                    "translate": "n. 圣人"
+                },
+                {
+                    "word": "sage",
+                    "translate": "n. 贤人；智者"
+                },
+                {
+                    "word": "become",
+                    "translate": "v. 成为"
+                },
+                {
+                    "word": "mean",
+                    "translate": "v. 意味着；意思是"
+                },
+                {
+                    "phrase": "aspire to be …",
+                    "translate": "立志成为……"
+                },
+                {
+                    "phrase": "a person who aspires to be …",
+                    "translate": "立志成为……的人"
+                },
+                {
+                    "phrase": "will become",
+                    "translate": "将会成为"
+                },
+                {
+                    "phrase": "a saint / a sage",
+                    "translate": "圣人 / 贤人"
+                }
+            ],
+            "answer": {
+                "title": "People have different goals in life",
+                "titleTranslate": "人们在人生中有不同的目标",
+                "word": [
+                    {
+                        "word": "people",
+                        "translate": "n. 人们"
+                    },
+                    {
+                        "word": "different",
+                        "translate": "adj. 不同的"
+                    },
+                    {
+                        "word": "goal / goals",
+                        "translate": "n. 目标"
+                    },
+                    {
+                        "word": "life",
+                        "translate": "n. 人生；生活"
+                    },
+                    {
+                        "phrase": "different goals",
+                        "translate": "不同的目标"
+                    },
+                    {
+                        "phrase": "in life",
+                        "translate": "在人生中"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Sages are wiser than saints",
+                "Some goals are more worth pursuing than others",
+                "It is better to be a saint than a sage"
+            ]
+        }
+    },
+    "u1t2": {
+        "1": {
+            "title": "What is the significance of one’s 18th birthday in modern China?",
+            "titleTranslate": "在当代中国，18岁生日有什么意义？",
+            "word": [
+                {
+                    "word": "significance",
+                    "translate": "n. 意义；重要性"
+                },
+                {
+                    "word": "one’s",
+                    "translate": "pron. 某人的"
+                },
+                {
+                    "word": "18th birthday",
+                    "translate": "18岁生日"
+                },
+                {
+                    "word": "modern",
+                    "translate": "adj. 现代的；当代的"
+                },
+                {
+                    "word": "China",
+                    "translate": "n. 中国"
+                },
+                {
+                    "phrase": "the significance of …",
+                    "translate": "……的意义"
+                },
+                {
+                    "phrase": "one’s 18th birthday",
+                    "translate": "某人的18岁生日"
+                },
+                {
+                    "phrase": "in modern China",
+                    "translate": "在当代中国"
+                }
+            ],
+            "answer": {
+                "title": "It marks one’s entry into adulthood",
+                "titleTranslate": "它标志着一个人步入成年",
+                "word": [
+                    {
+                        "word": "mark / marks",
+                        "translate": "v. 标志；标明"
+                    },
+                    {
+                        "word": "entry",
+                        "translate": "n. 进入；步入"
+                    },
+                    {
+                        "word": "adulthood",
+                        "translate": "n. 成年；成人期"
+                    },
+                    {
+                        "word": "one’s",
+                        "translate": "pron. 某人的"
+                    },
+                    {
+                        "phrase": "mark one’s entry into …",
+                        "translate": "标志着某人进入……"
+                    },
+                    {
+                        "phrase": "entry into adulthood",
+                        "translate": "步入成年"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "It is a celebration of one’s youth",
+                "It marks the beginning of one’s college life",
+                "It marks one’s graduation from high school"
+            ]
+        },
+        "2": {
+            "title": "What did the “passage to adulthood” ceremonies in ancient China signal a young person’s right to do",
+            "titleTranslate": "中国古代的“成人礼”仪式表明年轻人有权做什么？",
+            "word": [
+                {
+                    "word": "passage",
+                    "translate": "n. 通过；过渡"
+                },
+                {
+                    "word": "adulthood",
+                    "translate": "n. 成年；成人期"
+                },
+                {
+                    "word": "ceremony / ceremonies",
+                    "translate": "n. 仪式；典礼"
+                },
+                {
+                    "word": "ancient",
+                    "translate": "adj. 古代的"
+                },
+                {
+                    "word": "signal / signaled",
+                    "translate": "v. 表明；标志"
+                },
+                {
+                    "word": "right",
+                    "translate": "n. 权利"
+                },
+                {
+                    "word": "young person",
+                    "translate": "n. 年轻人"
+                },
+                {
+                    "phrase": "passage to adulthood",
+                    "translate": "步入成年；成人阶段的过渡"
+                },
+                {
+                    "phrase": "passage to adulthood ceremonies",
+                    "translate": "成人礼仪式"
+                },
+                {
+                    "phrase": "in ancient China",
+                    "translate": "在中国古代"
+                },
+                {
+                    "phrase": "signal one’s right to do …",
+                    "translate": "表明某人有权做……"
+                }
+            ],
+            "answer": {
+                "title": "Get married",
+                "titleTranslate": "结婚",
+                "word": [
+                    {
+                        "word": "get",
+                        "translate": "v. 变得；成为"
+                    },
+                    {
+                        "word": "married",
+                        "translate": "adj. 已婚的"
+                    },
+                    {
+                        "phrase": "get married",
+                        "translate": "结婚"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Share family responsibilities",
+                "Dress as they wished",
+                "Be a member of the noble class"
+            ]
+        },
+        "3": {
+            "title": "Which of the following conditions needed to be met for a girl’s family to hold jili",
+            "titleTranslate": "女孩的家庭需要满足以下哪项条件才能举行笄礼？",
+            "word": [
+                {
+                    "word": "which",
+                    "translate": "pron. 哪一个"
+                },
+                {
+                    "word": "following",
+                    "translate": "n. 下列事物；以下内容"
+                },
+                {
+                    "word": "condition / conditions",
+                    "translate": "n. 条件（复数）"
+                },
+                {
+                    "word": "need / needed",
+                    "translate": "v. 需要"
+                },
+                {
+                    "word": "girl",
+                    "translate": "n. 女孩"
+                },
+                {
+                    "word": "family",
+                    "translate": "n. 家庭"
+                },
+                {
+                    "word": "hold",
+                    "translate": "v. 举行"
+                },
+                {
+                    "word": "jili",
+                    "translate": "n. 笄礼（中国古代女子成人礼）"
+                },
+                {
+                    "phrase": "which of the following",
+                    "translate": "以下哪一项"
+                },
+                {
+                    "phrase": "conditions needed to be met",
+                    "translate": "需要满足的条件"
+                },
+                {
+                    "phrase": "a girl’s family",
+                    "translate": "女孩的家庭"
+                },
+                {
+                    "phrase": "hold jili",
+                    "translate": "举行笄礼"
+                }
+            ],
+            "answer": {
+                "title": "The girl had to come from a noble family",
+                "titleTranslate": "这个女孩必须出身于贵族家庭",
+                "word": [
+                    {
+                        "word": "girl",
+                        "translate": "n. 女孩"
+                    },
+                    {
+                        "word": "have to / had to",
+                        "translate": "v. 必须"
+                    },
+                    {
+                        "word": "come from",
+                        "translate": "v. 出身于；来自"
+                    },
+                    {
+                        "word": "noble",
+                        "translate": "adj. 贵族的；高贵的"
+                    },
+                    {
+                        "word": "family",
+                        "translate": "n. 家庭"
+                    },
+                    {
+                        "phrase": "had to",
+                        "translate": "必须"
+                    },
+                    {
+                        "phrase": "come from a … family",
+                        "translate": "出身于……家庭"
+                    },
+                    {
+                        "phrase": "a noble family",
+                        "translate": "贵族家庭"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "The girl had to be married",
+                "The girl had to be educated in proper speaking, dressing, and needlework",
+                "The master of the ceremony could not be related to the girl"
+            ]
+        },
+        "4": {
+            "title": "During guanli, what was the final step which confirmed the boy’s passage into adulthood",
+            "titleTranslate": "在冠礼过程中，哪一个最终步骤确认了男孩步入成年？",
+            "word": [
+                {
+                    "word": "during",
+                    "translate": "prep. 在……期间"
+                },
+                {
+                    "word": "guanli",
+                    "translate": "n. 冠礼（中国古代男子成人礼）"
+                },
+                {
+                    "word": "final",
+                    "translate": "adj. 最终的；最后的"
+                },
+                {
+                    "word": "step",
+                    "translate": "n. 步骤"
+                },
+                {
+                    "word": "confirm / confirmed",
+                    "translate": "v. 确认；证实"
+                },
+                {
+                    "word": "passage",
+                    "translate": "n. 过渡；进入"
+                },
+                {
+                    "word": "adulthood",
+                    "translate": "n. 成年；成人期"
+                },
+                {
+                    "word": "boy",
+                    "translate": "n. 男孩"
+                },
+                {
+                    "phrase": "during guanli",
+                    "translate": "在冠礼期间"
+                },
+                {
+                    "phrase": "the final step",
+                    "translate": "最后一步"
+                },
+                {
+                    "phrase": "confirm one’s passage into adulthood",
+                    "translate": "确认某人步入成年"
+                }
+            ],
+            "answer": {
+                "title": "The boy would give a salute to all the guests",
+                "titleTranslate": "男孩会向所有来宾行礼",
+                "word": [
+                    {
+                        "word": "boy",
+                        "translate": "n. 男孩"
+                    },
+                    {
+                        "word": "would",
+                        "translate": "v. 将会（表示过去将来或礼仪性动作）"
+                    },
+                    {
+                        "word": "give",
+                        "translate": "v. 做；给予"
+                    },
+                    {
+                        "word": "salute",
+                        "translate": "n./v. 致敬；行礼"
+                    },
+                    {
+                        "word": "guest / guests",
+                        "translate": "n. 客人；来宾（复数）"
+                    },
+                    {
+                        "phrase": "give a salute",
+                        "translate": "行礼；致意"
+                    },
+                    {
+                        "phrase": "all the guests",
+                        "translate": "所有来宾"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "The boy would change into a dark-colored costume",
+                "The boy’s father would give a speech",
+                "The master of the ceremony would put a cap on the boy’s head"
+            ]
+        },
+        "5": {
+            "title": "According to the passage, which of the following statements is true",
+            "titleTranslate": "根据文章内容，以下哪一项说法是正确的？",
+            "word": [
+                {
+                    "word": "according to",
+                    "translate": "prep. 根据；依据"
+                },
+                {
+                    "word": "passage",
+                    "translate": "n. 文章；段落"
+                },
+                {
+                    "word": "which",
+                    "translate": "pron. 哪一个"
+                },
+                {
+                    "word": "following",
+                    "translate": "n. 下列事物；以下内容"
+                },
+                {
+                    "word": "statement / statements",
+                    "translate": "n. 陈述；说法"
+                },
+                {
+                    "phrase": "according to the passage",
+                    "translate": "根据文章内容"
+                },
+                {
+                    "phrase": "which of the following",
+                    "translate": "以下哪一项"
+                },
+                {
+                    "phrase": "be true",
+                    "translate": "是正确的"
+                }
+            ],
+            "answer": {
+                "title": "What marked the beginning of adulthood in ancient China was different than what marks the beginning of adulthood in modern China",
+                "titleTranslate": "中国古代标志成年开始的方式与现代中国标志成年开始的方式不同",
+                "word": [
+                    {
+                        "word": "mark / marked",
+                        "translate": "v. 标志"
+                    },
+                    {
+                        "word": "beginning",
+                        "translate": "n. 开始"
+                    },
+                    {
+                        "word": "adulthood",
+                        "translate": "n. 成年；成人期"
+                    },
+                    {
+                        "word": "ancient",
+                        "translate": "adj. 古代的"
+                    },
+                    {
+                        "word": "modern",
+                        "translate": "adj. 现代的；当代的"
+                    },
+                    {
+                        "word": "different",
+                        "translate": "adj. 不同的"
+                    },
+                    {
+                        "phrase": "mark the beginning of …",
+                        "translate": "标志……的开始"
+                    },
+                    {
+                        "phrase": "the beginning of adulthood",
+                        "translate": "成年的开始"
+                    },
+                    {
+                        "phrase": "in ancient China",
+                        "translate": "在中国古代"
+                    },
+                    {
+                        "phrase": "in modern China",
+                        "translate": "在现代中国"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "The definition of youth is the same across all nations",
+                "Today, large ceremonies are held in China to mark a young person’s entry into adulthood",
+                "The definition of adulthood is the same across all nations"
+            ]
+        }
+    },
+    "u2t1": {
+        "1": {
+            "title": "According to the text, what feature makes Chinese path to modernization more complicated than that of other countries?",
+            "titleTranslate": "根据文章，是什么特征使中国的现代化道路比其他国家的更为复杂？",
+            "word": [
+                {
+                    "word": "according to",
+                    "translate": "prep. 根据；依据"
+                },
+                {
+                    "word": "text",
+                    "translate": "n. 文章；文本"
+                },
+                {
+                    "word": "feature",
+                    "translate": "n. 特征；特点"
+                },
+                {
+                    "word": "path",
+                    "translate": "n. 道路；路径"
+                },
+                {
+                    "word": "modernization",
+                    "translate": "n. 现代化"
+                },
+                {
+                    "word": "complicated",
+                    "translate": "adj. 复杂的"
+                },
+                {
+                    "word": "country / countries",
+                    "translate": "n. 国家（复数）"
+                },
+                {
+                    "phrase": "the Chinese path to modernization",
+                    "translate": "中国式现代化道路"
+                },
+                {
+                    "phrase": "make … more complicated",
+                    "translate": "使……更加复杂"
+                },
+                {
+                    "phrase": "that of other countries",
+                    "translate": "其他国家的（道路）"
+                }
+            ],
+            "answer": {
+                "title": "Its large population",
+                "titleTranslate": "其庞大的人口规模",
+                "word": [
+                    {
+                        "word": "large",
+                        "translate": "adj. 庞大的；巨大的"
+                    },
+                    {
+                        "word": "population",
+                        "translate": "n. 人口"
+                    },
+                    {
+                        "word": "its",
+                        "translate": "pron. 它的"
+                    },
+                    {
+                        "phrase": "large population",
+                        "translate": "庞大的人口"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Its diverse topography",
+                "Its geographic location",
+                "Its geographic location"
+            ]
+        },
+        "2": {
+            "title": "How does socialism with Chinese characteristics define common prosperity",
+            "titleTranslate": "中国特色社会主义如何界定共同富裕？",
+            "word": [
+                {
+                    "word": "socialism",
+                    "translate": "n. 社会主义"
+                },
+                {
+                    "word": "Chinese characteristics",
+                    "translate": "中国特色"
+                },
+                {
+                    "word": "define",
+                    "translate": "v. 界定；定义"
+                },
+                {
+                    "word": "common prosperity",
+                    "translate": "共同富裕"
+                },
+                {
+                    "phrase": "socialism with Chinese characteristics",
+                    "translate": "中国特色社会主义"
+                },
+                {
+                    "phrase": "define common prosperity",
+                    "translate": "界定共同富裕"
+                }
+            ],
+            "answer": {
+                "title": "Improvement of the quality of life for all the people",
+                "titleTranslate": "全体人民生活质量的提升",
+                "word": [
+                    {
+                        "word": "improvement",
+                        "translate": "n. 提升；改善"
+                    },
+                    {
+                        "word": "quality",
+                        "translate": "n. 质量"
+                    },
+                    {
+                        "word": "life",
+                        "translate": "n. 生活"
+                    },
+                    {
+                        "word": "people",
+                        "translate": "n. 人民"
+                    },
+                    {
+                        "word": "all",
+                        "translate": "adj. 全体的"
+                    },
+                    {
+                        "phrase": "quality of life",
+                        "translate": "生活质量"
+                    },
+                    {
+                        "phrase": "improvement of the quality of life",
+                        "translate": "生活质量的提升"
+                    },
+                    {
+                        "phrase": "for all the people",
+                        "translate": "为全体人民"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Total modernization of the Chinese economy",
+                "Promotion of justice and equality within Chinese society",
+                "Absence of polarization among citizens"
+            ]
+        },
+        "3": {
+            "title": "What does cultural-ethical enrichment mean in the context of Chinese socialist modernization",
+            "titleTranslate": "在中国式社会主义现代化背景下，文化—伦理充实意味着什么？",
+            "word": [
+                {
+                    "word": "cultural",
+                    "translate": "adj. 文化的"
+                },
+                {
+                    "word": "ethical",
+                    "translate": "adj. 伦理的；道德的"
+                },
+                {
+                    "word": "enrichment",
+                    "translate": "n. 丰富；充实"
+                },
+                {
+                    "word": "context",
+                    "translate": "n. 背景；语境"
+                },
+                {
+                    "word": "socialist",
+                    "translate": "adj. 社会主义的"
+                },
+                {
+                    "word": "modernization",
+                    "translate": "n. 现代化"
+                },
+                {
+                    "phrase": "cultural-ethical enrichment",
+                    "translate": "文化伦理充实"
+                },
+                {
+                    "phrase": "in the context of …",
+                    "translate": "在……背景下"
+                },
+                {
+                    "phrase": "Chinese socialist modernization",
+                    "translate": "中国式社会主义现代化"
+                }
+            ],
+            "answer": {
+                "title": "Promoting Chinese culture and encouraging strong morals and values among the people",
+                "titleTranslate": "弘扬中华文化，培育人民良好的道德和价值观",
+                "word": [
+                    {
+                        "word": "promote / promoting",
+                        "translate": "v. 促进；弘扬"
+                    },
+                    {
+                        "word": "Chinese culture",
+                        "translate": "n. 中华文化"
+                    },
+                    {
+                        "word": "encourage / encouraging",
+                        "translate": "v. 鼓励；倡导"
+                    },
+                    {
+                        "word": "moral / morals",
+                        "translate": "n. 道德；品德"
+                    },
+                    {
+                        "word": "value / values",
+                        "translate": "n. 价值观"
+                    },
+                    {
+                        "word": "people",
+                        "translate": "n. 人民"
+                    },
+                    {
+                        "phrase": "promote Chinese culture",
+                        "translate": "弘扬中华文化"
+                    },
+                    {
+                        "phrase": "strong morals and values",
+                        "translate": "良好的道德和价值观"
+                    },
+                    {
+                        "phrase": "among the people",
+                        "translate": "在人民中"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Implementing policies that will ensure material abundance for all",
+                "Adopting strategies which will facilitate modernization",
+                "Prioritizing environmental protection and preservation of China’s natural resources"
+            ]
+        },
+        "4": {
+            "title": "Which of the following best defines the concept of sustainable development",
+            "titleTranslate": "以下哪一项最能界定可持续发展的概念？",
+            "word": [
+                {
+                    "word": "which",
+                    "translate": "pron. 哪一个"
+                },
+                {
+                    "word": "following",
+                    "translate": "n. 下列事物；以下内容"
+                },
+                {
+                    "word": "best",
+                    "translate": "adv. 最好地；最"
+                },
+                {
+                    "word": "define / defines",
+                    "translate": "v. 界定；定义"
+                },
+                {
+                    "word": "concept",
+                    "translate": "n. 概念"
+                },
+                {
+                    "word": "sustainable",
+                    "translate": "adj. 可持续的"
+                },
+                {
+                    "word": "development",
+                    "translate": "n. 发展"
+                },
+                {
+                    "phrase": "which of the following",
+                    "translate": "以下哪一项"
+                },
+                {
+                    "phrase": "the concept of …",
+                    "translate": "……的概念"
+                },
+                {
+                    "phrase": "sustainable development",
+                    "translate": "可持续发展"
+                }
+            ],
+            "answer": {
+                "title": "Development that addresses not only the needs of the present but ensures resources for the future",
+                "titleTranslate": "既满足当代需求，又确保为未来保留资源的发展",
+                "word": [
+                    {
+                        "word": "development",
+                        "translate": "n. 发展"
+                    },
+                    {
+                        "word": "address / addresses",
+                        "translate": "v. 应对；满足；解决"
+                    },
+                    {
+                        "word": "need / needs",
+                        "translate": "n. 需要；需求"
+                    },
+                    {
+                        "word": "present",
+                        "translate": "n. 现在；当下"
+                    },
+                    {
+                        "word": "ensure / ensures",
+                        "translate": "v. 确保；保证"
+                    },
+                    {
+                        "word": "resource / resources",
+                        "translate": "n. 资源（复数）"
+                    },
+                    {
+                        "word": "future",
+                        "translate": "n. 未来"
+                    },
+                    {
+                        "phrase": "the needs of the present",
+                        "translate": "当代的需求"
+                    },
+                    {
+                        "phrase": "ensure resources for the future",
+                        "translate": "为未来确保资源"
+                    },
+                    {
+                        "phrase": "not only … but …",
+                        "translate": "不仅……而且……"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Development that discourages land development within sensitive ecosystems",
+                "Development focused on the conservation of renewable natural resources",
+                "Development that promotes environmental protection through the use of recyclable materials only"
+            ]
+        },
+        "5": {
+            "title": "Which would NOT be a characteristic of Chinese modernization",
+            "titleTranslate": "以下哪一项不是中国式现代化的特征？",
+            "word": [
+                {
+                    "word": "which",
+                    "translate": "pron. 哪一个"
+                },
+                {
+                    "word": "NOT",
+                    "translate": "adv. 不；不是"
+                },
+                {
+                    "word": "characteristic",
+                    "translate": "n. 特征；特点"
+                },
+                {
+                    "word": "Chinese",
+                    "translate": "adj. 中国的；中国式的"
+                },
+                {
+                    "word": "modernization",
+                    "translate": "n. 现代化"
+                },
+                {
+                    "phrase": "which would NOT be …",
+                    "translate": "以下哪一项不是……"
+                },
+                {
+                    "phrase": "a characteristic of …",
+                    "translate": "……的特征"
+                },
+                {
+                    "phrase": "Chinese modernization",
+                    "translate": "中国式现代化"
+                }
+            ],
+            "answer": {
+                "title": "Expanding and enriching land through conflict and colonization",
+                "titleTranslate": "通过冲突和殖民扩张并掠夺土地资源",
+                "word": [
+                    {
+                        "word": "expand / expanding",
+                        "translate": "v. 扩张；扩大"
+                    },
+                    {
+                        "word": "enrich / enriching",
+                        "translate": "v. 使富足；使丰富"
+                    },
+                    {
+                        "word": "land",
+                        "translate": "n. 土地；领土"
+                    },
+                    {
+                        "word": "conflict",
+                        "translate": "n. 冲突；战争"
+                    },
+                    {
+                        "word": "colonization",
+                        "translate": "n. 殖民；殖民扩张"
+                    },
+                    {
+                        "phrase": "expand land",
+                        "translate": "扩张土地"
+                    },
+                    {
+                        "phrase": "through conflict and colonization",
+                        "translate": "通过冲突和殖民"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Developing land in a sustainable manner",
+                "Allowing nature to restore and regenerate itself",
+                "Adopting policies which foster benefits for all nations"
+            ]
+        }
+    },
+    "u2t2": {
+        "1": {
+            "title": "What evidence is there in the story to prove that Yuan Xian is NOT very bothered by his poverty",
+            "titleTranslate": "故事中有哪些证据可以证明原宪并不太在意自己的贫穷？",
+            "word": [
+                {
+                    "word": "evidence",
+                    "translate": "n. 证据"
+                },
+                {
+                    "word": "story",
+                    "translate": "n. 故事"
+                },
+                {
+                    "word": "prove",
+                    "translate": "v. 证明"
+                },
+                {
+                    "word": "bother / bothered",
+                    "translate": "v. 困扰；烦恼"
+                },
+                {
+                    "word": "poverty",
+                    "translate": "n. 贫穷"
+                },
+                {
+                    "word": "Yuan Xian",
+                    "translate": "n. 原宪"
+                },
+                {
+                    "phrase": "what evidence is there",
+                    "translate": "有什么证据"
+                },
+                {
+                    "phrase": "in the story",
+                    "translate": "在故事中"
+                },
+                {
+                    "phrase": "prove that …",
+                    "translate": "证明……"
+                },
+                {
+                    "phrase": "be bothered by …",
+                    "translate": "为……所困扰"
+                }
+            ],
+            "answer": {
+                "title": "He sits properly in his house playing on a string instrument",
+                "titleTranslate": "他端坐在家中弹奏弦乐器",
+                "word": [
+                    {
+                        "word": "sit / sits",
+                        "translate": "v. 坐"
+                    },
+                    {
+                        "word": "properly",
+                        "translate": "adv. 端正地；得体地"
+                    },
+                    {
+                        "word": "house",
+                        "translate": "n. 房屋；家"
+                    },
+                    {
+                        "word": "play / playing",
+                        "translate": "v. 演奏；弹奏"
+                    },
+                    {
+                        "word": "string",
+                        "translate": "adj. 弦的"
+                    },
+                    {
+                        "word": "instrument",
+                        "translate": "n. 乐器"
+                    },
+                    {
+                        "phrase": "sit properly",
+                        "translate": "端坐"
+                    },
+                    {
+                        "phrase": "in his house",
+                        "translate": "在他家中"
+                    },
+                    {
+                        "phrase": "play on a string instrument",
+                        "translate": "弹奏弦乐器"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "He carries a briar stick and wears a hemp cap",
+                "He wears a pair of shoes without heels",
+                "He lives in a little shack"
+            ]
+        },
+        "2": {
+            "title": "Why does Yuan Xian feel that wealth is NOT necessarily a good thing",
+            "titleTranslate": "原宪为什么认为财富不一定是好事？",
+            "word": [
+                {
+                    "word": "why",
+                    "translate": "adv. 为什么"
+                },
+                {
+                    "word": "feel / feels",
+                    "translate": "v. 认为；感觉到"
+                },
+                {
+                    "word": "wealth",
+                    "translate": "n. 财富"
+                },
+                {
+                    "word": "necessarily",
+                    "translate": "adv. 必然地；一定地"
+                },
+                {
+                    "word": "good",
+                    "translate": "adj. 好的"
+                },
+                {
+                    "word": "thing",
+                    "translate": "n. 事物；东西"
+                },
+                {
+                    "word": "Yuan Xian",
+                    "translate": "n. 原宪"
+                },
+                {
+                    "phrase": "NOT necessarily",
+                    "translate": "不一定"
+                },
+                {
+                    "phrase": "a good thing",
+                    "translate": "一件好事"
+                },
+                {
+                    "phrase": "feel that …",
+                    "translate": "认为……"
+                }
+            ],
+            "answer": {
+                "title": "Wealthy people often do things for people’s praise",
+                "titleTranslate": "富有的人常常为了他人的称赞而做事",
+                "word": [
+                    {
+                        "word": "wealthy",
+                        "translate": "adj. 富有的"
+                    },
+                    {
+                        "word": "people",
+                        "translate": "n. 人们"
+                    },
+                    {
+                        "word": "often",
+                        "translate": "adv. 经常"
+                    },
+                    {
+                        "word": "do / do things",
+                        "translate": "v. 做（事情）"
+                    },
+                    {
+                        "word": "praise",
+                        "translate": "n. 称赞；赞美"
+                    },
+                    {
+                        "phrase": "wealthy people",
+                        "translate": "富有的人"
+                    },
+                    {
+                        "phrase": "do things for …",
+                        "translate": "为了……而做事"
+                    },
+                    {
+                        "phrase": "people’s praise",
+                        "translate": "他人的称赞"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Wealthy people have many friends",
+                "Wealthy people do things for humanity and justice",
+                "Wealthy people enjoy simple pleasures"
+            ]
+        },
+        "3": {
+            "title": "What is the meaning of the expression, “The contented man does not land himself in involvements on account of money”",
+            "titleTranslate": "“知足之人不会因为金钱而使自己陷入纷争”这句话是什么意思？",
+            "word": [
+                {
+                    "word": "meaning",
+                    "translate": "n. 含义；意义"
+                },
+                {
+                    "word": "expression",
+                    "translate": "n. 表达；说法"
+                },
+                {
+                    "word": "contented",
+                    "translate": "adj. 知足的；满足的"
+                },
+                {
+                    "word": "land (oneself)",
+                    "translate": "v. 使（某人）陷入（困境）"
+                },
+                {
+                    "word": "involvement / involvements",
+                    "translate": "n. 纠纷；牵连；麻烦"
+                },
+                {
+                    "word": "on account of",
+                    "translate": "prep. 因为；由于"
+                },
+                {
+                    "word": "money",
+                    "translate": "n. 金钱"
+                },
+                {
+                    "phrase": "the contented man",
+                    "translate": "知足之人"
+                },
+                {
+                    "phrase": "land oneself in …",
+                    "translate": "使自己陷入……"
+                },
+                {
+                    "phrase": "on account of money",
+                    "translate": "因为金钱"
+                }
+            ],
+            "answer": {
+                "title": "One does not need much money to lead a fulfilling life.",
+                "titleTranslate": "一个人不需要很多钱也能过上充实的生活。",
+                "word": [
+                    {
+                        "word": "one",
+                        "translate": "pron. 一个人；人们"
+                    },
+                    {
+                        "word": "need",
+                        "translate": "v. 需要"
+                    },
+                    {
+                        "word": "much",
+                        "translate": "adj. 许多的"
+                    },
+                    {
+                        "word": "money",
+                        "translate": "n. 金钱"
+                    },
+                    {
+                        "word": "lead",
+                        "translate": "v. 过（某种生活）"
+                    },
+                    {
+                        "word": "fulfilling",
+                        "translate": "adj. 令人满足的；充实的"
+                    },
+                    {
+                        "word": "life",
+                        "translate": "n. 生活；人生"
+                    },
+                    {
+                        "phrase": "lead a … life",
+                        "translate": "过……的生活"
+                    },
+                    {
+                        "phrase": "a fulfilling life",
+                        "translate": "充实的生活"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "One cannot be contented without money",
+                "Only wealthy people have friends",
+                "Living in poverty is better than being wealthy"
+            ]
+        },
+        "4": {
+            "title": "Why did Emperor Yao NOT want the three things that everyone desired",
+            "titleTranslate": "尧帝为什么不想要人人都渴望的那三样东西？",
+            "word": [
+                {
+                    "word": "why",
+                    "translate": "adv. 为什么"
+                },
+                {
+                    "word": "Emperor Yao",
+                    "translate": "n. 尧帝"
+                },
+                {
+                    "word": "want / wanted",
+                    "translate": "v. 想要"
+                },
+                {
+                    "word": "three",
+                    "translate": "num. 三"
+                },
+                {
+                    "word": "thing / things",
+                    "translate": "n. 事物（复数）"
+                },
+                {
+                    "word": "everyone",
+                    "translate": "pron. 每个人"
+                },
+                {
+                    "word": "desire / desired",
+                    "translate": "v. 渴望；向往"
+                },
+                {
+                    "phrase": "the three things",
+                    "translate": "那三样东西"
+                },
+                {
+                    "phrase": "everyone desired",
+                    "translate": "人人都渴望的"
+                },
+                {
+                    "phrase": "did not want",
+                    "translate": "不想要"
+                }
+            ],
+            "answer": {
+                "title": "They were not helpful to the development of one’s character",
+                "titleTranslate": "它们不利于一个人品格的发展",
+                "word": [
+                    {
+                        "word": "they",
+                        "translate": "pron. 它们"
+                    },
+                    {
+                        "word": "helpful",
+                        "translate": "adj. 有帮助的；有益的"
+                    },
+                    {
+                        "word": "development",
+                        "translate": "n. 发展"
+                    },
+                    {
+                        "word": "one’s",
+                        "translate": "pron. 某人的"
+                    },
+                    {
+                        "word": "character",
+                        "translate": "n. 品格；性格"
+                    },
+                    {
+                        "phrase": "not helpful to …",
+                        "translate": "对……没有帮助"
+                    },
+                    {
+                        "phrase": "the development of …",
+                        "translate": "……的发展"
+                    },
+                    {
+                        "phrase": "one’s character",
+                        "translate": "一个人的品格"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "He was a humble man",
+                "He was too occupied with many affairs",
+                "He did not like children"
+            ]
+        },
+        "5": {
+            "title": "How does the officer view the afterlife of a sage",
+            "titleTranslate": "这位官员如何看待圣人的来世？",
+            "word": [
+                {
+                    "word": "how",
+                    "translate": "adv. 如何"
+                },
+                {
+                    "word": "officer",
+                    "translate": "n. 官员"
+                },
+                {
+                    "word": "view",
+                    "translate": "v. 看待；认为"
+                },
+                {
+                    "word": "afterlife",
+                    "translate": "n. 来世；死后世界"
+                },
+                {
+                    "word": "sage",
+                    "translate": "n. 圣人；贤者"
+                },
+                {
+                    "phrase": "view … as …",
+                    "translate": "把……看作……"
+                },
+                {
+                    "phrase": "the afterlife of a sage",
+                    "translate": "圣人的来世"
+                }
+            ],
+            "answer": {
+                "title": "He is protected from consequences of earthly matters",
+                "titleTranslate": "他免受世俗事务后果的影响",
+                "word": [
+                    {
+                        "word": "protect / protected",
+                        "translate": "v. 保护；使免受"
+                    },
+                    {
+                        "word": "consequence / consequences",
+                        "translate": "n. 后果；结果"
+                    },
+                    {
+                        "word": "earthly",
+                        "translate": "adj. 世俗的；尘世的"
+                    },
+                    {
+                        "word": "matter / matters",
+                        "translate": "n. 事情；事务（复数）"
+                    },
+                    {
+                        "phrase": "be protected from …",
+                        "translate": "免受……的影响"
+                    },
+                    {
+                        "phrase": "earthly matters",
+                        "translate": "世俗事务"
+                    },
+                    {
+                        "phrase": "consequences of …",
+                        "translate": "……的后果"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "He goes about like a bird without a definite destination",
+                "He meets challenges without difficulty.",
+                "He is prosperous and leads a leisurely life"
+            ]
+        }
+    },
+    "u3t1": {
+        "1": {
+            "title": "How has the development of new technologies affected the global economic structure?",
+            "titleTranslate": "新技术的发展如何影响了全球经济结构？",
+            "word": [
+                {
+                    "word": "development",
+                    "translate": "n. 发展"
+                },
+                {
+                    "word": "technology / technologies",
+                    "translate": "n. 技术（复数）"
+                },
+                {
+                    "word": "new",
+                    "translate": "adj. 新的"
+                },
+                {
+                    "word": "affect / affected",
+                    "translate": "v. 影响"
+                },
+                {
+                    "word": "global",
+                    "translate": "adj. 全球的"
+                },
+                {
+                    "word": "economic",
+                    "translate": "adj. 经济的"
+                },
+                {
+                    "word": "structure",
+                    "translate": "n. 结构"
+                },
+                {
+                    "phrase": "the development of …",
+                    "translate": "……的发展"
+                },
+                {
+                    "phrase": "new technologies",
+                    "translate": "新技术"
+                },
+                {
+                    "phrase": "global economic structure",
+                    "translate": "全球经济结构"
+                },
+                {
+                    "phrase": "affect …",
+                    "translate": "影响……"
+                }
+            ],
+            "answer": {
+                "title": "By urging countries to develop their digital economies",
+                "titleTranslate": "通过推动各国发展数字经济",
+                "word": [
+                    {
+                        "word": "urge / urging",
+                        "translate": "v. 敦促；推动"
+                    },
+                    {
+                        "word": "country / countries",
+                        "translate": "n. 国家（复数）"
+                    },
+                    {
+                        "word": "develop",
+                        "translate": "v. 发展"
+                    },
+                    {
+                        "word": "digital",
+                        "translate": "adj. 数字的"
+                    },
+                    {
+                        "word": "economy / economies",
+                        "translate": "n. 经济（复数）"
+                    },
+                    {
+                        "phrase": "urge countries to do …",
+                        "translate": "敦促各国做……"
+                    },
+                    {
+                        "phrase": "digital economy",
+                        "translate": "数字经济"
+                    },
+                    {
+                        "phrase": "develop their digital economies",
+                        "translate": "发展各自的数字经济"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "By slowing down the process of social development",
+                "By allowing poorer countries to compete in the global economy",
+                "By accelerating growth of the traditional economy"
+            ]
+        },
+        "2": {
+            "title": "What initiative by the 18th CPC Central Committee has supported the growth of the digital economy in China?",
+            "titleTranslate": "中共十八届中央委员会提出的哪一项举措支持了中国数字经济的发展？",
+            "word": [
+                {
+                    "word": "initiative",
+                    "translate": "n. 举措；倡议"
+                },
+                {
+                    "word": "18th CPC Central Committee",
+                    "translate": "中共十八届中央委员会"
+                },
+                {
+                    "word": "support / supported",
+                    "translate": "v. 支持"
+                },
+                {
+                    "word": "growth",
+                    "translate": "n. 增长；发展"
+                },
+                {
+                    "word": "digital",
+                    "translate": "adj. 数字的"
+                },
+                {
+                    "word": "economy",
+                    "translate": "n. 经济"
+                },
+                {
+                    "word": "China",
+                    "translate": "n. 中国"
+                },
+                {
+                    "phrase": "the growth of …",
+                    "translate": "……的发展"
+                },
+                {
+                    "phrase": "digital economy",
+                    "translate": "数字经济"
+                },
+                {
+                    "phrase": "an initiative by …",
+                    "translate": "由……提出的一项举措"
+                }
+            ],
+            "answer": {
+                "title": "Implementing a national policy regarding the development of China’s cyber capabilities",
+                "titleTranslate": "实施有关中国网络能力发展的国家政策",
+                "word": [
+                    {
+                        "word": "implement / implementing",
+                        "translate": "v. 实施；执行"
+                    },
+                    {
+                        "word": "national",
+                        "translate": "adj. 国家的"
+                    },
+                    {
+                        "word": "policy",
+                        "translate": "n. 政策"
+                    },
+                    {
+                        "word": "regarding",
+                        "translate": "prep. 关于"
+                    },
+                    {
+                        "word": "development",
+                        "translate": "n. 发展"
+                    },
+                    {
+                        "word": "cyber",
+                        "translate": "adj. 网络的"
+                    },
+                    {
+                        "word": "capability / capabilities",
+                        "translate": "n. 能力（复数）"
+                    },
+                    {
+                        "word": "China’s",
+                        "translate": "adj. 中国的"
+                    },
+                    {
+                        "phrase": "implement a national policy",
+                        "translate": "实施国家政策"
+                    },
+                    {
+                        "phrase": "regarding the development of …",
+                        "translate": "关于……的发展"
+                    },
+                    {
+                        "phrase": "China’s cyber capabilities",
+                        "translate": "中国的网络能力"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Allowing companies to develop digital infrastructure at their own pace.",
+                "Integrating analog (模拟) and cyber technology",
+                "Separating new technologies from the traditional economy"
+            ]
+        },
+        "3": {
+            "title": "According to the text, which of the following would be considered a “smart society”?",
+            "titleTranslate": "根据文章内容，以下哪一项会被视为“智慧社会”？",
+            "word": [
+                {
+                    "word": "according to",
+                    "translate": "prep. 根据；依据"
+                },
+                {
+                    "word": "text",
+                    "translate": "n. 文章；文本"
+                },
+                {
+                    "word": "which",
+                    "translate": "pron. 哪一个"
+                },
+                {
+                    "word": "following",
+                    "translate": "n. 下列事物；以下内容"
+                },
+                {
+                    "word": "consider / considered",
+                    "translate": "v. 认为；视为"
+                },
+                {
+                    "word": "smart",
+                    "translate": "adj. 智慧的；智能的"
+                },
+                {
+                    "word": "society",
+                    "translate": "n. 社会"
+                },
+                {
+                    "phrase": "according to the text",
+                    "translate": "根据文章内容"
+                },
+                {
+                    "phrase": "which of the following",
+                    "translate": "以下哪一项"
+                },
+                {
+                    "phrase": "smart society",
+                    "translate": "智慧社会"
+                }
+            ],
+            "answer": {
+                "title": "One which has fully integrated AI, big data, and internet with its traditional economy",
+                "titleTranslate": "一个将人工智能、大数据和互联网与传统经济充分融合的社会",
+                "word": [
+                    {
+                        "word": "integrate / integrated",
+                        "translate": "v. 融合；整合"
+                    },
+                    {
+                        "word": "fully",
+                        "translate": "adv. 充分地；完全地"
+                    },
+                    {
+                        "word": "AI",
+                        "translate": "n. 人工智能"
+                    },
+                    {
+                        "word": "big data",
+                        "translate": "n. 大数据"
+                    },
+                    {
+                        "word": "internet",
+                        "translate": "n. 互联网"
+                    },
+                    {
+                        "word": "traditional",
+                        "translate": "adj. 传统的"
+                    },
+                    {
+                        "word": "economy",
+                        "translate": "n. 经济"
+                    },
+                    {
+                        "phrase": "fully integrate … with …",
+                        "translate": "将……与……充分融合"
+                    },
+                    {
+                        "phrase": "traditional economy",
+                        "translate": "传统经济"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "One which relies on the separation of digital industries to gain an international competitive edge.    ",
+                "One which relies on the development of traditional industries.",
+                "One which has a highly educated population."
+            ]
+        },
+        "4": {
+            "title": "What proves that the Chinese government’s policies on cyber development have been successful?",
+            "titleTranslate": "什么证明了中国政府在网络发展方面的政策是成功的？",
+            "word": [
+                {
+                    "word": "prove / proves",
+                    "translate": "v. 证明"
+                },
+                {
+                    "word": "Chinese government",
+                    "translate": "中国政府"
+                },
+                {
+                    "word": "policy / policies",
+                    "translate": "n. 政策（复数）"
+                },
+                {
+                    "word": "cyber",
+                    "translate": "adj. 网络的"
+                },
+                {
+                    "word": "development",
+                    "translate": "n. 发展"
+                },
+                {
+                    "word": "successful",
+                    "translate": "adj. 成功的"
+                },
+                {
+                    "phrase": "policies on cyber development",
+                    "translate": "网络发展政策"
+                },
+                {
+                    "phrase": "have been successful",
+                    "translate": "已经取得成功"
+                }
+            ],
+            "answer": {
+                "title": "China has maintained a high ranking among global digital economies",
+                "titleTranslate": "中国在全球数字经济中保持了较高的排名",
+                "word": [
+                    {
+                        "word": "maintain / maintained",
+                        "translate": "v. 保持；维持"
+                    },
+                    {
+                        "word": "high",
+                        "translate": "adj. 高的"
+                    },
+                    {
+                        "word": "ranking",
+                        "translate": "n. 排名"
+                    },
+                    {
+                        "word": "among",
+                        "translate": "prep. 在……之中"
+                    },
+                    {
+                        "word": "global",
+                        "translate": "adj. 全球的"
+                    },
+                    {
+                        "word": "digital",
+                        "translate": "adj. 数字的"
+                    },
+                    {
+                        "word": "economy / economies",
+                        "translate": "n. 经济（复数）"
+                    },
+                    {
+                        "phrase": "maintain a high ranking",
+                        "translate": "保持较高排名"
+                    },
+                    {
+                        "phrase": "among global digital economies",
+                        "translate": "在全球数字经济中"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "The spread of the COVID-19 epidemic has been prevented.",
+                "The growth of the Chinese digital economy has been gradual and consistent.",
+                "Local governments have worked to promote digital economies in their own cities"
+            ]
+        },
+        "5": {
+            "title": "Negative consequences of rapid digital growth in China",
+            "titleTranslate": "中国数字化快速发展带来的负面影响",
+            "word": [
+                {
+                    "word": "according to",
+                    "translate": "根据；依据"
+                },
+                {
+                    "word": "text",
+                    "translate": "n. 文章；文本"
+                },
+                {
+                    "word": "negative",
+                    "translate": "adj. 消极的；负面的"
+                },
+                {
+                    "word": "consequence",
+                    "translate": "n. 结果；后果"
+                },
+                {
+                    "word": "rapid",
+                    "translate": "adj. 快速的；迅速的"
+                },
+                {
+                    "word": "digital",
+                    "translate": "adj. 数字的"
+                },
+                {
+                    "word": "growth",
+                    "translate": "n. 增长；发展"
+                },
+                {
+                    "word": "China",
+                    "translate": "n. 中国"
+                },
+                {
+                    "phrase": "negative consequence",
+                    "translate": "负面影响"
+                },
+                {
+                    "phrase": "rapid digital growth",
+                    "translate": "数字化快速发展"
+                }
+            ],
+            "answer": {
+                "title": "The rise of unlawful activity among digital technology users",
+                "titleTranslate": "使用数字技术者中违法行为的增加",
+                "word": [
+                    {
+                        "word": "rise",
+                        "translate": "n. 上升；增加"
+                    },
+                    {
+                        "word": "unlawful",
+                        "translate": "adj. 非法的"
+                    },
+                    {
+                        "word": "activity",
+                        "translate": "n. 活动；行为"
+                    },
+                    {
+                        "word": "among",
+                        "translate": "prep. 在……之中"
+                    },
+                    {
+                        "word": "use",
+                        "translate": "v. 使用"
+                    },
+                    {
+                        "word": "digital",
+                        "translate": "adj. 数字的"
+                    },
+                    {
+                        "word": "technology / technologies",
+                        "translate": "n. 技术（复数）"
+                    },
+                    {
+                        "phrase": "unlawful activity",
+                        "translate": "违法行为"
+                    },
+                    {
+                        "phrase": "among those who use digital technologies",
+                        "translate": "在使用数字技术的人群中"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "The abandonment of traditional industries",
+                "Inconsistent growth of the Chinese economy",
+                "The threat to Chinese national security"
+            ]
+        }
+    },
+    "u3t2": {
+        "1": {
+            "title": "Digitalization supports global interest in traditional Chinese culture and arts",
+            "titleTranslate": "数字化推动全球对中国传统文化和艺术的兴趣增长",
+            "word": [
+                {
+                    "word": "according to",
+                    "translate": "根据；依据"
+                },
+                {
+                    "word": "text",
+                    "translate": "n. 文章；文本"
+                },
+                {
+                    "word": "digitalization",
+                    "translate": "n. 数字化"
+                },
+                {
+                    "word": "support / supported",
+                    "translate": "v. 支持；促进"
+                },
+                {
+                    "word": "global",
+                    "translate": "adj. 全球的"
+                },
+                {
+                    "word": "growth",
+                    "translate": "n. 增长；发展"
+                },
+                {
+                    "word": "interest",
+                    "translate": "n. 兴趣；关注"
+                },
+                {
+                    "word": "traditional",
+                    "translate": "adj. 传统的"
+                },
+                {
+                    "word": "Chinese",
+                    "translate": "adj. 中国的"
+                },
+                {
+                    "word": "culture",
+                    "translate": "n. 文化"
+                },
+                {
+                    "word": "art / arts",
+                    "translate": "n. 艺术（复数）"
+                },
+                {
+                    "phrase": "support global growth in interest",
+                    "translate": "促进兴趣的全球增长"
+                },
+                {
+                    "phrase": "traditional Chinese culture and arts",
+                    "translate": "中国传统文化和艺术"
+                }
+            ],
+            "answer": {
+                "title": "Digitalization allows easy access to information about traditional Chinese arts and culture",
+                "titleTranslate": "数字化使人们能够轻松获取关于中国传统艺术和文化的信息",
+                "word": [
+                    {
+                        "word": "allow / allowed",
+                        "translate": "v. 允许；使能够"
+                    },
+                    {
+                        "word": "anyone",
+                        "translate": "pron. 任何人"
+                    },
+                    {
+                        "word": "easily",
+                        "translate": "adv. 容易地；轻松地"
+                    },
+                    {
+                        "word": "access",
+                        "translate": "v. 获取；访问"
+                    },
+                    {
+                        "word": "information",
+                        "translate": "n. 信息"
+                    },
+                    {
+                        "word": "about",
+                        "translate": "prep. 关于"
+                    },
+                    {
+                        "word": "traditional",
+                        "translate": "adj. 传统的"
+                    },
+                    {
+                        "word": "Chinese",
+                        "translate": "adj. 中国的"
+                    },
+                    {
+                        "word": "art / arts",
+                        "translate": "n. 艺术（复数）"
+                    },
+                    {
+                        "word": "culture",
+                        "translate": "n. 文化"
+                    },
+                    {
+                        "phrase": "access information about",
+                        "translate": "获取关于……的信息"
+                    },
+                    {
+                        "phrase": "traditional Chinese arts and culture",
+                        "translate": "中国传统艺术和文化"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "It has facilitated the dissemination of information about Chinese arts and culture among academics",
+                "It has fostered Chinese national spirit and pride in traditional artistic and cultural practices",
+                "It has allowed easier access to Chinese goods and services"
+            ]
+        },
+        "2": {
+            "title": "Significance of the Digital Dunhuang project",
+            "titleTranslate": "数字敦煌项目的意义",
+            "word": [
+                {
+                    "word": "significance",
+                    "translate": "n. 意义；重要性"
+                },
+                {
+                    "word": "Digital Dunhuang project",
+                    "translate": "数字敦煌项目"
+                },
+                {
+                    "phrase": "significance of",
+                    "translate": "……的意义"
+                }
+            ],
+            "answer": {
+                "title": "Digital Dunhuang project allows broader access to traditional Chinese arts and culture",
+                "titleTranslate": "数字敦煌项目使人们能够更广泛地接触中国传统艺术和文化",
+                "word": [
+                    {
+                        "word": "allow / allowed",
+                        "translate": "v. 允许；使能够"
+                    },
+                    {
+                        "word": "broader",
+                        "translate": "adj. 更广泛的"
+                    },
+                    {
+                        "word": "access",
+                        "translate": "n. 接触；使用"
+                    },
+                    {
+                        "word": "traditional",
+                        "translate": "adj. 传统的"
+                    },
+                    {
+                        "word": "Chinese",
+                        "translate": "adj. 中国的"
+                    },
+                    {
+                        "word": "art / arts",
+                        "translate": "n. 艺术（复数）"
+                    },
+                    {
+                        "word": "culture",
+                        "translate": "n. 文化"
+                    },
+                    {
+                        "phrase": "broader access to",
+                        "translate": "更广泛地接触……"
+                    },
+                    {
+                        "phrase": "traditional Chinese arts and culture",
+                        "translate": "中国传统艺术和文化"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "It provides comprehensive information about Chinese economic growth.",
+                "It can be accessed only by internet users in China.",
+                "It is limited to use by Chinese scholars only."
+            ]
+        },
+        "3": {
+            "title": "How digital technology fosters global harmony",
+            "titleTranslate": "数字技术如何促进全球和谐",
+            "word": [
+                {
+                    "word": "digital",
+                    "translate": "adj. 数字的"
+                },
+                {
+                    "word": "technology",
+                    "translate": "n. 技术"
+                },
+                {
+                    "word": "foster / fosters",
+                    "translate": "v. 促进；培养"
+                },
+                {
+                    "word": "global",
+                    "translate": "adj. 全球的"
+                },
+                {
+                    "word": "harmony",
+                    "translate": "n. 和谐"
+                },
+                {
+                    "phrase": "foster global harmony",
+                    "translate": "促进全球和谐"
+                }
+            ],
+            "answer": {
+                "title": "Digital technology offers opportunities for cross-cultural exchange",
+                "titleTranslate": "数字技术提供了跨文化交流的机会",
+                "word": [
+                    {
+                        "word": "offer / offers",
+                        "translate": "v. 提供；给予"
+                    },
+                    {
+                        "word": "opportunity",
+                        "translate": "n. 机会"
+                    },
+                    {
+                        "word": "people",
+                        "translate": "n. 人们"
+                    },
+                    {
+                        "word": "exchange",
+                        "translate": "v. 交换；交流"
+                    },
+                    {
+                        "word": "idea / ideas",
+                        "translate": "n. 想法；观点（复数）"
+                    },
+                    {
+                        "word": "with",
+                        "translate": "prep. 与……一起"
+                    },
+                    {
+                        "word": "other",
+                        "translate": "adj. 其他的"
+                    },
+                    {
+                        "word": "culture / cultures",
+                        "translate": "n. 文化（复数）"
+                    },
+                    {
+                        "phrase": "exchange ideas with",
+                        "translate": "与……交流想法"
+                    },
+                    {
+                        "phrase": "people from other cultures",
+                        "translate": "来自其他文化的人们"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "It encourages strong nationalism",
+                "It provides a means of financial success for those who are economically disadvantaged.",
+                "It allows for rapid communication between world governments."
+            ]
+        },
+        "4": {
+            "title": "How UGC allows traditional Chinese culture to flourish globally",
+            "titleTranslate": "UGC如何使中国传统文化在全球发展繁荣",
+            "word": [
+                {
+                    "word": "according to",
+                    "translate": "根据；依据"
+                },
+                {
+                    "word": "text",
+                    "translate": "n. 文章；文本"
+                },
+                {
+                    "word": "UGC",
+                    "translate": "n. 用户生成内容（User-Generated Content的缩写）"
+                },
+                {
+                    "word": "allow / allows",
+                    "translate": "v. 允许；使能够"
+                },
+                {
+                    "word": "traditional",
+                    "translate": "adj. 传统的"
+                },
+                {
+                    "word": "Chinese",
+                    "translate": "adj. 中国的"
+                },
+                {
+                    "word": "culture",
+                    "translate": "n. 文化"
+                },
+                {
+                    "word": "flourish",
+                    "translate": "v. 繁荣；发展"
+                },
+                {
+                    "word": "globally",
+                    "translate": "adv. 全球范围内"
+                },
+                {
+                    "phrase": "allow traditional Chinese culture to flourish",
+                    "translate": "使中国传统文化繁荣发展"
+                },
+                {
+                    "phrase": "flourish globally",
+                    "translate": "在全球范围内繁荣"
+                }
+            ],
+            "answer": {
+                "title": "UGC allows worldwide access to Chinese culture and arts in real time",
+                "titleTranslate": "UGC使人们能够实时访问全球范围内的中国文化和艺术",
+                "word": [
+                    {
+                        "word": "allow / allows",
+                        "translate": "v. 允许；使能够"
+                    },
+                    {
+                        "word": "worldwide",
+                        "translate": "adj./adv. 全球范围的；全球地"
+                    },
+                    {
+                        "word": "access",
+                        "translate": "n. 接触；使用"
+                    },
+                    {
+                        "word": "Chinese",
+                        "translate": "adj. 中国的"
+                    },
+                    {
+                        "word": "culture",
+                        "translate": "n. 文化"
+                    },
+                    {
+                        "word": "art / arts",
+                        "translate": "n. 艺术（复数）"
+                    },
+                    {
+                        "word": "real time",
+                        "translate": "n. 实时"
+                    },
+                    {
+                        "phrase": "worldwide access to",
+                        "translate": "全球范围内接触……"
+                    },
+                    {
+                        "phrase": "Chinese culture and arts",
+                        "translate": "中国文化和艺术"
+                    },
+                    {
+                        "phrase": "in real time",
+                        "translate": "实时地"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "It provides a platform for Chinese artists to exchange ideas.",
+                "It provides a platform for Chinese artists to exchange ideas.",
+                "It encourages and facilitates the sale of Chinese art."
+            ]
+        },
+        "5": {
+            "title": "Importance of Chinese government constructing digital platforms for traditional culture and art？",
+            "titleTranslate": "中国政府建设传统文化和艺术数字平台的重要性？",
+            "word": [
+                {
+                    "word": "important",
+                    "translate": "adj. 重要的"
+                },
+                {
+                    "word": "Chinese government",
+                    "translate": "n. 中国政府"
+                },
+                {
+                    "word": "construct / constructing",
+                    "translate": "v. 建设；构建"
+                },
+                {
+                    "word": "digital",
+                    "translate": "adj. 数字的"
+                },
+                {
+                    "word": "platform / platforms",
+                    "translate": "n. 平台（复数）"
+                },
+                {
+                    "word": "traditional",
+                    "translate": "adj. 传统的"
+                },
+                {
+                    "word": "culture",
+                    "translate": "n. 文化"
+                },
+                {
+                    "word": "art",
+                    "translate": "n. 艺术"
+                },
+                {
+                    "word": "communication",
+                    "translate": "n. 传播；交流"
+                },
+                {
+                    "phrase": "construct digital platforms",
+                    "translate": "建设数字平台"
+                },
+                {
+                    "phrase": "traditional culture and art communication",
+                    "translate": "传统文化和艺术的传播"
+                }
+            ],
+            "answer": {
+                "title": "Digital platforms present Chinese nonphysical ideas globally",
+                "titleTranslate": "数字平台向全球展示中国的非物质理念",
+                "word": [
+                    {
+                        "word": "present / presents",
+                        "translate": "v. 展示；呈现"
+                    },
+                    {
+                        "word": "Chinese",
+                        "translate": "adj. 中国的"
+                    },
+                    {
+                        "word": "nonphysical",
+                        "translate": "adj. 非物质的"
+                    },
+                    {
+                        "word": "idea / ideas",
+                        "translate": "n. 理念；观念（复数）"
+                    },
+                    {
+                        "word": "such as",
+                        "translate": "例如；诸如"
+                    },
+                    {
+                        "word": "value / values",
+                        "translate": "n. 价值观（复数）"
+                    },
+                    {
+                        "word": "belief / beliefs",
+                        "translate": "n. 信念；信仰（复数）"
+                    },
+                    {
+                        "word": "global",
+                        "translate": "adj. 全球的"
+                    },
+                    {
+                        "word": "audience",
+                        "translate": "n. 受众；观众"
+                    },
+                    {
+                        "phrase": "present ideas to a global audience",
+                        "translate": "向全球受众展示理念"
+                    },
+                    {
+                        "phrase": "nonphysical ideas such as values and beliefs",
+                        "translate": "非物质理念，如价值观和信仰"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "It presents an overview of China’s rapid industrial development.",
+                "It promotes an interest in collecting Chinese artifacts.",
+                "It teaches traditional Chinese artistic practices."
+            ]
+        }
+    },
+    "u4t1": {
+        "1": {
+            "title": "Significant achievements of China’s new period of reform and opening up",
+            "titleTranslate": "中国新时期改革开放的重要成就",
+            "word": [
+                {
+                    "word": "significant",
+                    "translate": "adj. 重要的；显著的"
+                },
+                {
+                    "word": "achievement / achievements",
+                    "translate": "n. 成就（复数）"
+                },
+                {
+                    "word": "China",
+                    "translate": "n. 中国"
+                },
+                {
+                    "word": "new period",
+                    "translate": "n. 新时期"
+                },
+                {
+                    "word": "reform",
+                    "translate": "n. 改革"
+                },
+                {
+                    "word": "opening up",
+                    "translate": "n. 对外开放"
+                },
+                {
+                    "phrase": "period of reform and opening up",
+                    "translate": "改革开放时期"
+                },
+                {
+                    "phrase": "one of the most significant achievements",
+                    "translate": "最重要的成就之一"
+                }
+            ],
+            "answer": {
+                "title": "Elimination of extreme poverty in China",
+                "titleTranslate": "中国极端贫困的消除",
+                "word": [
+                    {
+                        "word": "extreme",
+                        "translate": "adj. 极端的"
+                    },
+                    {
+                        "word": "poverty",
+                        "translate": "n. 贫困"
+                    },
+                    {
+                        "word": "China",
+                        "translate": "n. 中国"
+                    },
+                    {
+                        "word": "eliminate / eliminated",
+                        "translate": "v. 消除；根除"
+                    },
+                    {
+                        "phrase": "eliminate extreme poverty",
+                        "translate": "消除极端贫困"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "China’s standard of living has been consistently maintained.",
+                "China’s economy is the largest in the world.",
+                "China is closer to achieving the goal of moderate prosperity than ever before"
+            ]
+        },
+        "2": {
+            "title": "How China’s development has benefited other nations",
+            "titleTranslate": "中国的发展如何惠及其他国家",
+            "word": [
+                {
+                    "word": "according to",
+                    "translate": "根据；依据"
+                },
+                {
+                    "word": "text",
+                    "translate": "n. 文章；文本"
+                },
+                {
+                    "word": "China",
+                    "translate": "n. 中国"
+                },
+                {
+                    "word": "development",
+                    "translate": "n. 发展"
+                },
+                {
+                    "word": "benefit / benefited",
+                    "translate": "v. 使受益；有利于"
+                },
+                {
+                    "word": "other",
+                    "translate": "adj. 其他的"
+                },
+                {
+                    "word": "nation / nations",
+                    "translate": "n. 国家（复数）"
+                },
+                {
+                    "phrase": "benefit other nations",
+                    "translate": "惠及其他国家"
+                }
+            ],
+            "answer": {
+                "title": "China’s development creates opportunities for common development in other countries",
+                "titleTranslate": "中国的发展为其他国家带来共同发展的机会",
+                "word": [
+                    {
+                        "word": "lead to",
+                        "translate": "导致；引起"
+                    },
+                    {
+                        "word": "opportunity / opportunities",
+                        "translate": "n. 机会（复数）"
+                    },
+                    {
+                        "word": "common",
+                        "translate": "adj. 共同的；普遍的"
+                    },
+                    {
+                        "word": "development",
+                        "translate": "n. 发展"
+                    },
+                    {
+                        "word": "other",
+                        "translate": "adj. 其他的"
+                    },
+                    {
+                        "word": "country / countries",
+                        "translate": "n. 国家（复数）"
+                    },
+                    {
+                        "phrase": "opportunities for common development",
+                        "translate": "共同发展的机会"
+                    },
+                    {
+                        "phrase": "in other countries",
+                        "translate": "在其他国家"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "It has encouraged individual countries to resolve problems on their own",
+                "It has resulted in the improvement of infrastructure in developed countries",
+                "It has resulted in the building of healthcare facilities throughout the world"
+            ]
+        },
+        "3": {
+            "title": "China's contribution to the global fight against COVID-19",
+            "titleTranslate": "中国为全球抗击新冠疫情所作的贡献",
+            "word": [
+                {
+                    "word": "according to",
+                    "translate": "根据；依据"
+                },
+                {
+                    "word": "text",
+                    "translate": "n. 文章；文本"
+                },
+                {
+                    "word": "China",
+                    "translate": "n. 中国"
+                },
+                {
+                    "word": "contribute / contributed",
+                    "translate": "v. 贡献；促成"
+                },
+                {
+                    "word": "worldwide",
+                    "translate": "adj./adv. 全球范围的；全世界的"
+                },
+                {
+                    "word": "effort",
+                    "translate": "n. 努力；行动"
+                },
+                {
+                    "word": "overcome",
+                    "translate": "v. 克服；战胜"
+                },
+                {
+                    "word": "COVID-19 pandemic",
+                    "translate": "新冠疫情"
+                },
+                {
+                    "phrase": "contribute to the worldwide effort",
+                    "translate": "为全球努力作出贡献"
+                },
+                {
+                    "phrase": "overcome the COVID-19 pandemic",
+                    "translate": "战胜新冠疫情"
+                }
+            ],
+            "answer": {
+                "title": "China shares pandemic response experience with other countries",
+                "titleTranslate": "中国利用抗疫经验为其他国家提供参考",
+                "word": [
+                    {
+                        "word": "use / used",
+                        "translate": "v. 使用；利用"
+                    },
+                    {
+                        "word": "pandemic",
+                        "translate": "n. 大流行病"
+                    },
+                    {
+                        "word": "response",
+                        "translate": "n. 应对；反应"
+                    },
+                    {
+                        "word": "experience",
+                        "translate": "n. 经验"
+                    },
+                    {
+                        "word": "inform",
+                        "translate": "v. 通知；提供信息；启发"
+                    },
+                    {
+                        "word": "other",
+                        "translate": "adj. 其他的"
+                    },
+                    {
+                        "word": "country / countries",
+                        "translate": "n. 国家（复数）"
+                    },
+                    {
+                        "phrase": "pandemic response experience",
+                        "translate": "抗疫经验"
+                    },
+                    {
+                        "phrase": "inform other countries",
+                        "translate": "为其他国家提供参考"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "It has sent the largest number of medical supplies to other countries",
+                "It has provided financial support to foreign medical research students",
+                "It has developed the most widely used vaccines globally"
+            ]
+        },
+        "4": {
+            "title": "China’s demonstrated leadership as a UN Security Council member",
+            "titleTranslate": "中国作为联合国安理会成员展现的领导力",
+            "word": [
+                {
+                    "word": "demonstrate / demonstrated",
+                    "translate": "v. 展示；表明"
+                },
+                {
+                    "word": "leadership",
+                    "translate": "n. 领导力；领导才能"
+                },
+                {
+                    "word": "China",
+                    "translate": "n. 中国"
+                },
+                {
+                    "word": "member",
+                    "translate": "n. 成员"
+                },
+                {
+                    "word": "UN Security Council",
+                    "translate": "联合国安全理事会"
+                },
+                {
+                    "phrase": "demonstrated leadership",
+                    "translate": "展现的领导力"
+                },
+                {
+                    "phrase": "as a member of the UN Security Council",
+                    "translate": "作为联合国安理会成员"
+                }
+            ],
+            "answer": {
+                "title": "China contributes to global peacekeeping operations",
+                "titleTranslate": "中国为全球维和行动作出重要贡献",
+                "word": [
+                    {
+                        "word": "make / made",
+                        "translate": "v. 做；作出"
+                    },
+                    {
+                        "word": "significant",
+                        "translate": "adj. 重要的；显著的"
+                    },
+                    {
+                        "word": "contribution / contributions",
+                        "translate": "n. 贡献（复数）"
+                    },
+                    {
+                        "word": "peacekeeping",
+                        "translate": "adj. 维和的"
+                    },
+                    {
+                        "word": "operation / operations",
+                        "translate": "n. 行动；行动（复数）"
+                    },
+                    {
+                        "word": "around the world",
+                        "translate": "在世界各地"
+                    },
+                    {
+                        "phrase": "contributions to peacekeeping operations",
+                        "translate": "为维和行动作出贡献"
+                    },
+                    {
+                        "phrase": "around the world",
+                        "translate": "在全球范围内"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "It has been the only country to achieve the UN Millennium Development Goals.",
+                "It acts independently in international affairs.",
+                "It is the largest financial contributor to the UN."
+            ]
+        },
+        "5": {
+            "title": "Identifying the true statement according to the text",
+            "titleTranslate": "根据文章判断正确的陈述",
+            "word": [
+                {
+                    "word": "according to",
+                    "translate": "根据；依据"
+                },
+                {
+                    "word": "text",
+                    "translate": "n. 文章；文本"
+                },
+                {
+                    "word": "statement / statements",
+                    "translate": "n. 陈述；说法（复数）"
+                },
+                {
+                    "word": "true",
+                    "translate": "adj. 正确的；真实的"
+                },
+                {
+                    "phrase": "which statement is true",
+                    "translate": "哪一陈述是正确的"
+                }
+            ],
+            "answer": {
+                "title": "Applying the universality of human rights within cultural contexts",
+                "titleTranslate": "各国必须在其独特的文化背景下贯彻人权的普遍性",
+                "word": [
+                    {
+                        "word": "each",
+                        "translate": "adj. 每个的"
+                    },
+                    {
+                        "word": "country / countries",
+                        "translate": "n. 国家（复数）"
+                    },
+                    {
+                        "word": "must",
+                        "translate": "aux. 必须"
+                    },
+                    {
+                        "word": "apply",
+                        "translate": "v. 应用；贯彻"
+                    },
+                    {
+                        "word": "universality",
+                        "translate": "n. 普遍性"
+                    },
+                    {
+                        "word": "human rights",
+                        "translate": "n. 人权"
+                    },
+                    {
+                        "word": "within",
+                        "translate": "prep. 在……之内"
+                    },
+                    {
+                        "word": "unique",
+                        "translate": "adj. 独特的"
+                    },
+                    {
+                        "word": "cultural",
+                        "translate": "adj. 文化的"
+                    },
+                    {
+                        "word": "context",
+                        "translate": "n. 背景；语境"
+                    },
+                    {
+                        "phrase": "apply the universality of human rights",
+                        "translate": "贯彻人权的普遍性"
+                    },
+                    {
+                        "phrase": "within its unique cultural context",
+                        "translate": "在其独特的文化背景下"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Human rights are respected globally",
+                "Social trends have no relevance to human rights",
+                "Human rights are approached the same way in all countries"
+            ]
+        }
+    },
+    "u4t2": {
+        "1": {
+            "title": "Importance of the Great Learning to Neo-Confucianists",
+            "titleTranslate": "为什么理学家认为《大学》是重要著作",
+            "word": [
+                {
+                    "word": "Neo-Confucianist / Neo-Confucianists",
+                    "translate": "n. 理学家（复数）"
+                },
+                {
+                    "word": "consider / considered",
+                    "translate": "v. 认为；视为"
+                },
+                {
+                    "word": "Great Learning",
+                    "translate": "《大学》"
+                },
+                {
+                    "word": "important",
+                    "translate": "adj. 重要的"
+                },
+                {
+                    "word": "text",
+                    "translate": "n. 著作；文本"
+                },
+                {
+                    "phrase": "consider the Great Learning important",
+                    "translate": "认为《大学》重要"
+                }
+            ],
+            "answer": {
+                "title": "The Great Learning as the foundation for the learning of Dao",
+                "titleTranslate": "《大学》作为道学学习的基础",
+                "word": [
+                    {
+                        "word": "foundation",
+                        "translate": "n. 基础；根基"
+                    },
+                    {
+                        "word": "learning",
+                        "translate": "n. 学问；学术"
+                    },
+                    {
+                        "word": "Dao",
+                        "translate": "n. 道"
+                    },
+                    {
+                        "phrase": "foundation for the learning of Dao",
+                        "translate": "道学学习的基础"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "It was written by Zengzi",
+                "It outlined how to govern a state",
+                "It provided a guide on regulating one’s family"
+            ]
+        },
+        "2": {
+            "title": "The goal of the Great Learning",
+            "titleTranslate": "《大学》的目标",
+            "word": [
+                {
+                    "word": "goal",
+                    "translate": "n. 目标；目的"
+                },
+                {
+                    "word": "Great Learning",
+                    "translate": "《大学》"
+                },
+                {
+                    "phrase": "goal of the Great Learning",
+                    "translate": "《大学》的目标"
+                }
+            ],
+            "answer": {
+                "title": "The Great Learning teaches how to achieve the highest good",
+                "titleTranslate": "《大学》教人如何达至至善",
+                "word": [
+                    {
+                        "word": "teach / teaches",
+                        "translate": "v. 教；教授"
+                    },
+                    {
+                        "word": "one",
+                        "translate": "pron. 人；某人"
+                    },
+                    {
+                        "word": "how",
+                        "translate": "adv. 如何；怎样"
+                    },
+                    {
+                        "word": "achieve",
+                        "translate": "v. 达到；实现"
+                    },
+                    {
+                        "word": "highest",
+                        "translate": "adj. 最高的"
+                    },
+                    {
+                        "word": "good",
+                        "translate": "n. 善；美德"
+                    },
+                    {
+                        "phrase": "teach one how to achieve",
+                        "translate": "教人如何实现"
+                    },
+                    {
+                        "phrase": "the highest good",
+                        "translate": "至善"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "To teach one how to regulate the family.",
+                "To teach one how to be a head of state.",
+                "To teach sincerity in one’s thoughts."
+            ]
+        },
+        "3": {
+            "title": "Why the main statements of the Great Learning are described as cords",
+            "titleTranslate": "为什么将《大学》的主要论述比作绳索",
+            "word": [
+                {
+                    "word": "fitting",
+                    "translate": "adj. 恰当的；合适的"
+                },
+                {
+                    "word": "describe / described",
+                    "translate": "v. 描述；比作"
+                },
+                {
+                    "word": "main",
+                    "translate": "adj. 主要的"
+                },
+                {
+                    "word": "statement / statements",
+                    "translate": "n. 论述；陈述（复数）"
+                },
+                {
+                    "word": "cord / cords",
+                    "translate": "n. 绳索（复数）"
+                },
+                {
+                    "phrase": "describe as cords",
+                    "translate": "比作绳索"
+                },
+                {
+                    "phrase": "main statements of the Great Learning",
+                    "translate": "《大学》的主要论述"
+                }
+            ],
+            "answer": {
+                "title": "Cords symbolize connection in the Great Learning",
+                "titleTranslate": "绳索象征《大学》中各部分的联系",
+                "word": [
+                    {
+                        "word": "cord / cords",
+                        "translate": "n. 绳索（复数）"
+                    },
+                    {
+                        "word": "connect / connects",
+                        "translate": "v. 连接；联系"
+                    },
+                    {
+                        "word": "thing / things",
+                        "translate": "n. 事物（复数）"
+                    },
+                    {
+                        "phrase": "cords connect things together",
+                        "translate": "绳索将事物连接在一起"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Cords are long and narrow",
+                "Cords are a main element in music",
+                "Cords are impossible to break"
+            ]
+        },
+        "4": {
+            "title": "Meaning of the statement on doing one’s best in the Great Learning",
+            "titleTranslate": "《大学》中“诚意尽善，乃至于至善”的含义",
+            "word": [
+                {
+                    "word": "statement",
+                    "translate": "n. 陈述；说法"
+                },
+                {
+                    "word": "thus",
+                    "translate": "adv. 如此；因此"
+                },
+                {
+                    "word": "sincerely",
+                    "translate": "adv. 真诚地；诚恳地"
+                },
+                {
+                    "word": "try / trying",
+                    "translate": "v. 尝试；努力"
+                },
+                {
+                    "word": "do / doing",
+                    "translate": "v. 做；实践"
+                },
+                {
+                    "word": "one’s best",
+                    "translate": "尽自己最大的努力"
+                },
+                {
+                    "word": "rest / resting",
+                    "translate": "v. 停留；安于"
+                },
+                {
+                    "word": "highest good",
+                    "translate": "至善；最高的善"
+                },
+                {
+                    "phrase": "sincerely trying to do one’s best",
+                    "translate": "真诚地尽自己最大努力"
+                },
+                {
+                    "phrase": "resting in the highest good",
+                    "translate": "安于至善；达至至善"
+                }
+            ],
+            "answer": {
+                "title": "Achieving the highest good without overstraining oneself",
+                "titleTranslate": "不必超出自身能力即可达至至善",
+                "word": [
+                    {
+                        "word": "one",
+                        "translate": "pron. 人；某人"
+                    },
+                    {
+                        "word": "have to",
+                        "translate": "必须；需要"
+                    },
+                    {
+                        "word": "strive / striving",
+                        "translate": "v. 努力；奋斗"
+                    },
+                    {
+                        "word": "beyond",
+                        "translate": "prep. 超过；超出"
+                    },
+                    {
+                        "word": "means",
+                        "translate": "n. 能力；资源"
+                    },
+                    {
+                        "word": "achieve",
+                        "translate": "v. 达到；实现"
+                    },
+                    {
+                        "word": "highest good",
+                        "translate": "至善；最高的善"
+                    },
+                    {
+                        "phrase": "strive beyond one’s means",
+                        "translate": "超出自身能力努力"
+                    },
+                    {
+                        "phrase": "achieve the highest good",
+                        "translate": "达至至善"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "One must always work to better oneself",
+                "Only the highly educated can achieve the highest good",
+                "To achieve the highest good requires one to be perfect"
+            ]
+        },
+        "5": {
+            "title": "The central tenet of Confucianism",
+            "titleTranslate": "儒家思想的核心理念",
+            "word": [
+                {
+                    "word": "central",
+                    "translate": "adj. 核心的；中心的"
+                },
+                {
+                    "word": "tenet",
+                    "translate": "n. 原则；信条"
+                },
+                {
+                    "word": "Confucianism",
+                    "translate": "n. 儒家思想"
+                },
+                {
+                    "phrase": "central tenet of Confucianism",
+                    "translate": "儒家思想的核心理念"
+                }
+            ],
+            "answer": {
+                "title": "Self-perfection precedes the perfection of others in Confucianism",
+                "titleTranslate": "儒家思想中先修己再治人的理念",
+                "word": [
+                    {
+                        "word": "man",
+                        "translate": "n. 人；人类"
+                    },
+                    {
+                        "word": "must",
+                        "translate": "aux. 必须"
+                    },
+                    {
+                        "word": "perfect / perfects / perfecting",
+                        "translate": "v. 使完善；修养"
+                    },
+                    {
+                        "word": "himself",
+                        "translate": "pron. 他自己；自身"
+                    },
+                    {
+                        "word": "then",
+                        "translate": "adv. 然后；接着"
+                    },
+                    {
+                        "word": "others",
+                        "translate": "pron. 他人；别人"
+                    },
+                    {
+                        "phrase": "perfect oneself",
+                        "translate": "修养自身；自我完善"
+                    },
+                    {
+                        "phrase": "perfect others",
+                        "translate": "完善他人；治理他人"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "It is imperative for an individual to fulfill his role in society, thereby cultivating himself",
+                "The highest form of perfection is to be a leader in society",
+                "Only heads of state or world leaders can bring about world peace."
+            ]
+        }
+    },
+    "u5t1": {
+        "1": {
+            "title": "Beijing 2022 Games contribute to China’s goal of a modern socialist country",
+            "titleTranslate": "北京2022年冬奥会和冬残奥会助力党建设现代化社会主义国家的目标",
+            "word": [
+                {
+                    "word": "Beijing 2022 Winter Olympic and Paralympic Games",
+                    "translate": "北京2022年冬奥会和冬残奥会"
+                },
+                {
+                    "word": "contribute / contributed",
+                    "translate": "v. 贡献；促成"
+                },
+                {
+                    "word": "Party",
+                    "translate": "n. 党（指中国共产党）"
+                },
+                {
+                    "word": "goal",
+                    "translate": "n. 目标；愿景"
+                },
+                {
+                    "word": "develop / developing / developed",
+                    "translate": "v. 发展；建设"
+                },
+                {
+                    "word": "modern",
+                    "translate": "adj. 现代的"
+                },
+                {
+                    "word": "socialist",
+                    "translate": "adj. 社会主义的"
+                },
+                {
+                    "word": "country",
+                    "translate": "n. 国家"
+                },
+                {
+                    "phrase": "contribute to the Party’s goal",
+                    "translate": "助力党的目标"
+                },
+                {
+                    "phrase": "develop a modern socialist country",
+                    "translate": "建设现代化社会主义国家"
+                }
+            ],
+            "answer": {
+                "title": "Beijing 2022 Games left resources for China’s development",
+                "titleTranslate": "北京2022年冬奥会和冬残奥会留下可用于中国发展的宝贵资源",
+                "word": [
+                    {
+                        "word": "leave / left",
+                        "translate": "v. 留下；遗留"
+                    },
+                    {
+                        "word": "valuable",
+                        "translate": "adj. 宝贵的；有价值的"
+                    },
+                    {
+                        "word": "resource / resources",
+                        "translate": "n. 资源（复数）"
+                    },
+                    {
+                        "word": "use / used / will be used",
+                        "translate": "v. 使用；利用"
+                    },
+                    {
+                        "word": "further",
+                        "translate": "v. 促进；推进"
+                    },
+                    {
+                        "word": "China",
+                        "translate": "n. 中国"
+                    },
+                    {
+                        "word": "development",
+                        "translate": "n. 发展"
+                    },
+                    {
+                        "phrase": "leave valuable resources",
+                        "translate": "留下宝贵资源"
+                    },
+                    {
+                        "phrase": "used to further China’s development",
+                        "translate": "用于推进中国的发展"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "They required the building of necessary temporary infrastructure",
+                "They showcased the development of China’s cultural heritage",
+                "They integrated technology into all aspects of competition."
+            ]
+        },
+        "2": {
+            "title": "Government efforts to increase the popularity of winter sports in China",
+            "titleTranslate": "政府如何希望提高中国冬季运动的普及度",
+            "word": [
+                {
+                    "word": "government",
+                    "translate": "n. 政府"
+                },
+                {
+                    "word": "hope / hopes",
+                    "translate": "v. 希望；期望"
+                },
+                {
+                    "word": "increase / increasing",
+                    "translate": "v. 增加；提升"
+                },
+                {
+                    "word": "popularity",
+                    "translate": "n. 受欢迎程度；普及度"
+                },
+                {
+                    "word": "winter",
+                    "translate": "adj. 冬季的"
+                },
+                {
+                    "word": "sport / sports",
+                    "translate": "n. 运动（复数）"
+                },
+                {
+                    "word": "China",
+                    "translate": "n. 中国"
+                },
+                {
+                    "phrase": "increase the popularity of winter sports",
+                    "translate": "提高冬季运动的普及度"
+                }
+            ],
+            "answer": {
+                "title": "Increasing popularity of winter sports through public involvement",
+                "titleTranslate": "通过鼓励公众参与冬季运动来提高其普及度",
+                "word": [
+                    {
+                        "word": "encourage / encouraging",
+                        "translate": "v. 鼓励；促进"
+                    },
+                    {
+                        "word": "public",
+                        "translate": "n. 公众；民众"
+                    },
+                    {
+                        "word": "involvement",
+                        "translate": "n. 参与；介入"
+                    },
+                    {
+                        "word": "winter",
+                        "translate": "adj. 冬季的"
+                    },
+                    {
+                        "word": "sport / sports",
+                        "translate": "n. 运动（复数）"
+                    },
+                    {
+                        "phrase": "public involvement in winter sports",
+                        "translate": "公众参与冬季运动"
+                    },
+                    {
+                        "phrase": "increase popularity by encouraging public involvement",
+                        "translate": "通过鼓励公众参与来提高普及度"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "By building more winter sports venues and facilities",
+                "By reducing funding for summer sports and activities",
+                "By promoting sales of winter sports equipment"
+            ]
+        },
+        "3": {
+            "title": "Cultural legacy of the 2022 Beijing Winter Games enhances China’s global profile",
+            "titleTranslate": "2022年北京冬奥会和冬残奥会的文化遗产提升中国的国际形象",
+            "word": [
+                {
+                    "word": "cultural",
+                    "translate": "adj. 文化的"
+                },
+                {
+                    "word": "legacy",
+                    "translate": "n. 遗产；遗留影响"
+                },
+                {
+                    "word": "2022 Beijing Winter Olympic and Paralympic Games",
+                    "translate": "2022年北京冬奥会和冬残奥会"
+                },
+                {
+                    "word": "enhance / enhances",
+                    "translate": "v. 提升；增强"
+                },
+                {
+                    "word": "China",
+                    "translate": "n. 中国"
+                },
+                {
+                    "word": "profile",
+                    "translate": "n. 形象；声望"
+                },
+                {
+                    "word": "world stage",
+                    "translate": "n. 世界舞台；国际舞台"
+                },
+                {
+                    "phrase": "cultural legacy",
+                    "translate": "文化遗产"
+                },
+                {
+                    "phrase": "enhance China’s profile on the world stage",
+                    "translate": "提升中国在国际舞台上的形象"
+                }
+            ],
+            "answer": {
+                "title": "Beijing 2022 Games increase global familiarity with Chinese culture and history",
+                "titleTranslate": "北京2022年冬奥会和冬残奥会提升全球对中国文化和历史的了解",
+                "word": [
+                    {
+                        "word": "increase / will increase",
+                        "translate": "v. 增加；提升"
+                    },
+                    {
+                        "word": "global",
+                        "translate": "adj. 全球的"
+                    },
+                    {
+                        "word": "familiarity",
+                        "translate": "n. 熟悉；了解"
+                    },
+                    {
+                        "word": "Chinese",
+                        "translate": "adj. 中国的"
+                    },
+                    {
+                        "word": "culture",
+                        "translate": "n. 文化"
+                    },
+                    {
+                        "word": "history",
+                        "translate": "n. 历史"
+                    },
+                    {
+                        "phrase": "increase global familiarity with",
+                        "translate": "提升全球对……的了解"
+                    },
+                    {
+                        "phrase": "Chinese culture and history",
+                        "translate": "中国文化和历史"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "They will highlight China’s commitment to human rights",
+                "They will serve as a template for host cities of future Olympic Games",
+                "They will highlight the role of volunteers in promoting social progress"
+            ]
+        },
+        "4": {
+            "title": "Government encouragement of volunteerism",
+            "titleTranslate": "政府为何感到有必要鼓励志愿服务",
+            "word": [
+                {
+                    "word": "government",
+                    "translate": "n. 政府"
+                },
+                {
+                    "word": "feel / feels",
+                    "translate": "v. 感到；认为"
+                },
+                {
+                    "word": "need",
+                    "translate": "n. 需求；必要性"
+                },
+                {
+                    "word": "encourage / encourages",
+                    "translate": "v. 鼓励；推动"
+                },
+                {
+                    "word": "volunteerism",
+                    "translate": "n. 志愿服务精神；志愿活动"
+                },
+                {
+                    "phrase": "feel the need to encourage",
+                    "translate": "感到有必要鼓励"
+                }
+            ],
+            "answer": {
+                "title": "Volunteerism promotes qualities that advance social progress",
+                "titleTranslate": "志愿服务培养推动社会进步的个人品质",
+                "word": [
+                    {
+                        "word": "promote / promotes",
+                        "translate": "v. 促进；推动"
+                    },
+                    {
+                        "word": "quality / qualities",
+                        "translate": "n. 品质；特性（复数）"
+                    },
+                    {
+                        "word": "individual / individuals",
+                        "translate": "n. 个人（复数）"
+                    },
+                    {
+                        "word": "further",
+                        "translate": "v. 促进；推动"
+                    },
+                    {
+                        "word": "social",
+                        "translate": "adj. 社会的"
+                    },
+                    {
+                        "word": "progress",
+                        "translate": "n. 进步；发展"
+                    },
+                    {
+                        "phrase": "promote qualities in individuals",
+                        "translate": "培养个人品质"
+                    },
+                    {
+                        "phrase": "further social progress",
+                        "translate": "推动社会进步"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "It allows individuals to expand their circle of friends",
+                "It promotes peace and mutual understanding",
+                "It promotes the development of physical fitness"
+            ]
+        },
+        "5": {
+            "title": "How sports contribute to a well-rounded individual",
+            "titleTranslate": "体育运动如何促进个人全面发展",
+            "word": [
+                {
+                    "word": "sport / sports",
+                    "translate": "n. 体育运动（复数）"
+                },
+                {
+                    "word": "contribute / contributes",
+                    "translate": "v. 促进；有助于"
+                },
+                {
+                    "word": "well-rounded",
+                    "translate": "adj. 全面的；多方面发展的"
+                },
+                {
+                    "word": "individual",
+                    "translate": "n. 个人"
+                },
+                {
+                    "phrase": "contribute to a well-rounded individual",
+                    "translate": "促进个人全面发展"
+                }
+            ],
+            "answer": {
+                "title": "Sports enhance individuals’ physical fitness and quality of life",
+                "titleTranslate": "体育运动提高个人的体质和生活质量",
+                "word": [
+                    {
+                        "word": "improve / improves / enhance",
+                        "translate": "v. 提高；改善；增强"
+                    },
+                    {
+                        "word": "physical",
+                        "translate": "adj. 身体的；体能的"
+                    },
+                    {
+                        "word": "fitness",
+                        "translate": "n. 健康状况；体能"
+                    },
+                    {
+                        "word": "quality of life",
+                        "translate": "n. 生活质量"
+                    },
+                    {
+                        "word": "individual / individuals",
+                        "translate": "n. 个人（复数）"
+                    },
+                    {
+                        "phrase": "improve physical fitness",
+                        "translate": "提高体质"
+                    },
+                    {
+                        "phrase": "improve quality of life",
+                        "translate": "改善生活质量"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "They encourage individuals to become professional athletes",
+                "They encourage research in sports and technology.",
+                "They emphasize physical fitness among the elderly."
+            ]
+        }
+    },
+    "u5t2": {
+        "1": {
+            "title": "Differences in the practice of sport in ancient China and other ancient cultures",
+            "titleTranslate": "古代中国体育实践与其他古代文化的差异",
+            "word": [
+                {
+                    "word": "practice / practices",
+                    "translate": "n. 实践；活动"
+                },
+                {
+                    "word": "sport / sports",
+                    "translate": "n. 体育运动（复数）"
+                },
+                {
+                    "word": "ancient",
+                    "translate": "adj. 古代的"
+                },
+                {
+                    "word": "China",
+                    "translate": "n. 中国"
+                },
+                {
+                    "word": "differ / differed",
+                    "translate": "v. 不同；有区别"
+                },
+                {
+                    "word": "other",
+                    "translate": "adj. 其他的"
+                },
+                {
+                    "word": "culture / cultures",
+                    "translate": "n. 文化（复数）"
+                },
+                {
+                    "phrase": "practice of sport in ancient China",
+                    "translate": "古代中国的体育实践"
+                },
+                {
+                    "phrase": "differ from other ancient cultures",
+                    "translate": "与其他古代文化有所不同"
+                }
+            ],
+            "answer": {
+                "title": "Sports in ancient China fostered societal cohesion and personal merit",
+                "titleTranslate": "古代中国的体育方式促进了社会凝聚力和个人品德",
+                "word": [
+                    {
+                        "word": "mode / modes",
+                        "translate": "n. 方式；模式（复数）"
+                    },
+                    {
+                        "word": "behavior",
+                        "translate": "n. 行为；举止"
+                    },
+                    {
+                        "word": "foster / fostered",
+                        "translate": "v. 促进；培养"
+                    },
+                    {
+                        "word": "societal",
+                        "translate": "adj. 社会的"
+                    },
+                    {
+                        "word": "cohesion",
+                        "translate": "n. 凝聚力；团结"
+                    },
+                    {
+                        "word": "personal",
+                        "translate": "adj. 个人的"
+                    },
+                    {
+                        "word": "merit",
+                        "translate": "n. 品德；优点"
+                    },
+                    {
+                        "phrase": "modes of behavior",
+                        "translate": "行为方式"
+                    },
+                    {
+                        "phrase": "foster societal cohesion and personal merit",
+                        "translate": "促进社会凝聚力和个人品德"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Participation was limited to members of nobility",
+                "It encouraged individual competition",
+                "It emphasized physical strength as in wrestling and boxing"
+            ]
+        },
+        "2": {
+            "title": "Why archery was favored by ancient Chinese kings according to the Book of Rites",
+            "titleTranslate": "《礼记》中为什么古代中国国王偏好射箭",
+            "word": [
+                {
+                    "word": "according to",
+                    "translate": "根据；依据"
+                },
+                {
+                    "word": "Book of Rites",
+                    "translate": "《礼记》"
+                },
+                {
+                    "word": "archery",
+                    "translate": "n. 射箭"
+                },
+                {
+                    "word": "favor / favored",
+                    "translate": "v. 偏好；喜爱"
+                },
+                {
+                    "word": "ancient",
+                    "translate": "adj. 古代的"
+                },
+                {
+                    "word": "Chinese",
+                    "translate": "adj. 中国的"
+                },
+                {
+                    "word": "king / kings",
+                    "translate": "n. 国王（复数）"
+                },
+                {
+                    "phrase": "favored by ancient Chinese kings",
+                    "translate": "古代中国国王偏好"
+                }
+            ],
+            "answer": {
+                "title": "Archery fostered proper behavior and virtue",
+                "titleTranslate": "射箭促进了正确行为和美德的发展",
+                "word": [
+                    {
+                        "word": "foster / fostered",
+                        "translate": "v. 促进；培养"
+                    },
+                    {
+                        "word": "development",
+                        "translate": "n. 发展；成长"
+                    },
+                    {
+                        "word": "proper",
+                        "translate": "adj. 正确的；适当的"
+                    },
+                    {
+                        "word": "behavior",
+                        "translate": "n. 行为；举止"
+                    },
+                    {
+                        "word": "virtue",
+                        "translate": "n. 美德；品德"
+                    },
+                    {
+                        "phrase": "foster the development of proper behavior and virtue",
+                        "translate": "促进正确行为和美德的发展"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Because it was a sport that both men and women participated in.",
+                "Because it was a sport practiced only by the higher classes.",
+                "Because it involved complex rules that only the most highly educated people could understand."
+            ]
+        },
+        "3": {
+            "title": "What dictated the rules of ritual archery",
+            "titleTranslate": "是什么规定了礼射的规则",
+            "word": [
+                {
+                    "word": "dictate / dictated",
+                    "translate": "v. 决定；规定"
+                },
+                {
+                    "word": "ritual",
+                    "translate": "adj. 礼仪的；仪式的"
+                },
+                {
+                    "word": "archery",
+                    "translate": "n. 射箭"
+                },
+                {
+                    "word": "rule / rules",
+                    "translate": "n. 规则（复数）"
+                },
+                {
+                    "phrase": "rules of ritual archery",
+                    "translate": "礼射的规则"
+                }
+            ],
+            "answer": {
+                "title": "An archer’s social rank dictated ritual archery rules",
+                "titleTranslate": "礼射的规则由射手的社会等级决定",
+                "word": [
+                    {
+                        "word": "archer / archers",
+                        "translate": "n. 射手（复数）"
+                    },
+                    {
+                        "word": "social",
+                        "translate": "adj. 社会的"
+                    },
+                    {
+                        "word": "rank",
+                        "translate": "n. 等级；地位"
+                    },
+                    {
+                        "word": "dictate / dictated",
+                        "translate": "v. 决定；规定"
+                    },
+                    {
+                        "phrase": "archer’s social rank",
+                        "translate": "射手的社会等级"
+                    },
+                    {
+                        "phrase": "dictated ritual archery rules",
+                        "translate": "决定礼射规则"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "An archer’s physical strength.",
+                "An archer’s precision.",
+                "An archer’s musical skills."
+            ]
+        },
+        "4": {
+            "title": "Meaning of 'The student of virtue has no contentions'",
+            "titleTranslate": "“君子无争”的含义",
+            "word": [
+                {
+                    "word": "student",
+                    "translate": "n. 学习者；学生"
+                },
+                {
+                    "word": "virtue",
+                    "translate": "n. 美德；德行"
+                },
+                {
+                    "word": "have / has",
+                    "translate": "v. 有；持有"
+                },
+                {
+                    "word": "contention",
+                    "translate": "n. 争论；争斗"
+                },
+                {
+                    "phrase": "student of virtue",
+                    "translate": "德行的学习者"
+                },
+                {
+                    "phrase": "has no contentions",
+                    "translate": "没有争斗；不争执"
+                }
+            ],
+            "answer": {
+                "title": "A moral person has no hostility towards others",
+                "titleTranslate": "有德之人不与他人敌对/有德之人不争",
+                "word": [
+                    {
+                        "word": "moral",
+                        "translate": "adj. 有道德的；品德高尚的"
+                    },
+                    {
+                        "word": "person",
+                        "translate": "n. 人；个人"
+                    },
+                    {
+                        "word": "have / has",
+                        "translate": "v. 有；持有"
+                    },
+                    {
+                        "word": "hostility",
+                        "translate": "n. 敌意；对抗"
+                    },
+                    {
+                        "word": "towards",
+                        "translate": "prep. 对于；朝向"
+                    },
+                    {
+                        "word": "other / others",
+                        "translate": "pron. 其他人"
+                    },
+                    {
+                        "phrase": "has no hostility towards others",
+                        "translate": "不对他人怀有敌意"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "A moral person will never face opposition from others",
+                "A moral person is always able to triumph over opponents.",
+                "A moral person is superior to all others."
+            ]
+        },
+        "5": {
+            "title": "Underlying principle of all competition in ancient China",
+            "titleTranslate": "古代中国所有竞争的基本原则",
+            "word": [
+                {
+                    "word": "underlying",
+                    "translate": "adj. 基本的；潜在的"
+                },
+                {
+                    "word": "principle",
+                    "translate": "n. 原则；准则"
+                },
+                {
+                    "word": "competition",
+                    "translate": "n. 竞争；比赛"
+                },
+                {
+                    "word": "ancient",
+                    "translate": "adj. 古代的"
+                },
+                {
+                    "word": "China",
+                    "translate": "n. 中国"
+                },
+                {
+                    "phrase": "underlying principle",
+                    "translate": "基本原则"
+                },
+                {
+                    "phrase": "all competition in ancient China",
+                    "translate": "古代中国的所有竞争"
+                }
+            ],
+            "answer": {
+                "title": "Pushing oneself beyond one’s own limitations in ancient Chinese competition",
+                "titleTranslate": "在古代中国竞争中超越自身极限",
+                "word": [
+                    {
+                        "word": "push / pushing",
+                        "translate": "v. 推动；努力"
+                    },
+                    {
+                        "word": "oneself",
+                        "translate": "pron. 自己；自身"
+                    },
+                    {
+                        "word": "beyond",
+                        "translate": "prep. 超过；超出"
+                    },
+                    {
+                        "word": "limitation / limitations",
+                        "translate": "n. 限制；极限（复数）"
+                    },
+                    {
+                        "phrase": "push oneself beyond one’s own limitations",
+                        "translate": "超越自身极限"
+                    }
+                ]
+            },
+            "errorOpinion": [
+                "Bringing honor and respect to one’s family",
+                "Following rules to develop a sense of self-discipline",
+                "Defeating one’s opponents."
+            ]
+        }
+    }
+}
