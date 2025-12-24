@@ -190,6 +190,8 @@
 >
 > California Levi's.
 
+---
+
 3
 
 > Lumos Labs fined for deceiving customers about the benefits of its products.
@@ -272,7 +274,7 @@
 >
 > Turtles.
 
-##### long
+#### long
 
 6
 
@@ -794,9 +796,9 @@
 >
 > 33 percent.
 
-### u3
+## u3
 
-### Conversations
+### further practice in listening
 
 #### short
 
@@ -986,6 +988,8 @@
 >
 > Because women do not have enough money to have children.
 
+---
+
 3
 
 > A serious manpower shortage.
@@ -1124,6 +1128,7 @@
 >
 > It is a newly-bought ring.
 
+
 10
 
 > She is afraid of wearing it for fear of losing it.
@@ -1135,6 +1140,8 @@
 > She is excited to wear it as it is an expensive one.
 >
 > She is delighted to wear it as it is a token of good fortune.
+
+----
 
 11
 
@@ -1388,6 +1395,8 @@
 >
 > The voiceover of Chris Hemsworth.
 
+---
+
 3
 
 > It represents one of the latest smell technology developments.
@@ -1551,8 +1560,6 @@
 > No one loves flying.
 
 ---
-
-
 
 11
 
@@ -1935,10 +1942,6 @@
 > After breakfast.
 
 ---
-
----
-
-
 
 10
 
