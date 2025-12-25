@@ -65,6 +65,7 @@ export default function Home() {
       <Flex gap="small" wrap>
         <Ten />
         <Yuedu />
+        <Button onClick={() => router.push('/transfrom')}>翻译展示</Button>
       </Flex>
 
       <div style={{ marginTop: 16 }}>
@@ -96,7 +97,7 @@ export default function Home() {
         <Space orientation="vertical" size="small" style={{ width: '100%' }}>
           {tinliKeys.map(k => (
             <Space key={k} size="small" style={{ width: '100%', padding: 4, borderRadius: 6 }}>
-              <Typography.Text style={{ fontSize: 16 }}>{k}</Typography.Text>
+            <Typography.Text style={{ fontSize: 16 }}>{k}</Typography.Text>
               <Button size="small" onClick={() => router.push(`/tinli/short?unit=${k.slice(1)}&qid=1`)}>短题</Button>
               <Button size="small" onClick={() => router.push(`/tinli/long?unit=${k.slice(1)}&qid=1`)}>长题</Button>
               <Button size="small" onClick={() => router.push(`/tinli/practice?type=fpl-passage&unit=${k.slice(1)}&qid=1`)}>篇章</Button>
@@ -115,6 +116,14 @@ export default function Home() {
               ))}
             </Space>
           ))}
+        </Space>
+      </div>
+
+      <div style={{ marginTop: 16 }}>
+        <Typography.Title level={4}>听力随机</Typography.Title>
+        <Space>
+          <Button onClick={() => router.push('/tinli/random/short')}>随机短题（含测验短题）</Button>
+          <Button onClick={() => router.push('/tinli/random/long')}>随机长题（篇章/新题/测验长题）</Button>
         </Space>
       </div>
     </>

@@ -1,8 +1,336 @@
-[
-    {
-        "text":"",
-        "Translate":"Replace"
-    },{
-        
-    }
-]
+{
+    "u1": [
+        {
+            "text": "For a show, I set up one speaker facing my left side, my good ear, and make it louder all the way up. The speakers that play the bass are on the floor behind me so I can hear some of the lower frequencies and feel the beat in my feet. And I can feel the energy of the song and the crowd goes crazy, you feel that. The song comes to life.",
+            "translation": "在演出时，我会把一个音箱朝向我的左侧，也就是我听力较好的一只耳朵，并把音量开到最大。播放低音的音箱放在我身后的地板上，这样我既能听到一些较低的频率，也能用脚感受到节拍。我能感受到音乐的能量，观众也会变得疯狂，你能感受到那种氛围。音乐仿佛活了过来。",
+            "word": [
+                {
+                    "word": "speaker",
+                    "translate": "n. 扬声器；音箱"
+                },
+                {
+                    "word": "bass",
+                    "translate": "n. 低音"
+                },
+                {
+                    "word": "frequencies",
+                    "translate": "n. 频率"
+                },
+                {
+                    "word": "beat",
+                    "translate": "n. 节拍"
+                },
+                {
+                    "word": "energy",
+                    "translate": "n. 能量；活力"
+                },
+                {
+                    "word": "crowd",
+                    "translate": "n. 人群；观众"
+                },
+                {
+                    "word": "comes to life",
+                    "translate": "短语. 变得生动；活了过来"
+                }
+            ]
+        },
+        {
+            "text": "I use software that turns the music into lines of color on a computer screen. Red is the bass, blue is snare, green is the vocals or melody. I’m visually hearing the music. What I love about deejaying is the creativity, what you can do with a machine, two turntables, and a mixer.",
+            "translation": "我使用一种软件，把音乐转化为电脑屏幕上的彩色线条。红色代表低音，蓝色代表军鼓，绿色代表人声或旋律。我是在用视觉“听”音乐。我喜欢 DJ 打碟的地方在于它的创造力——你可以用一台机器、两台唱盘和一个混音器做出各种事情。",
+            "word": [
+                {
+                    "word": "software",
+                    "translate": "n. 软件"
+                },
+                {
+                    "word": "bass",
+                    "translate": "n. 低音"
+                },
+                {
+                    "word": "snare",
+                    "translate": "n. 军鼓"
+                },
+                {
+                    "word": "vocals",
+                    "translate": "n. 人声"
+                },
+                {
+                    "word": "melody",
+                    "translate": "n. 旋律"
+                },
+                {
+                    "word": "creativity",
+                    "translate": "n. 创造力"
+                },
+                {
+                    "word": "turntables",
+                    "translate": "n. 唱盘；转盘"
+                },
+                {
+                    "word": "mixer",
+                    "translate": "n. 混音器"
+                }
+            ]
+        }
+    ],
+    "u2": [
+        {
+            "text": "Nonetheless, I do remember what it was like to be an 18-year-old undergraduate. The first-year experience is exciting, liberating and terrifying, all combined to help us grow into adulthood. That is, if our parents don’t come with us.",
+            "translation": "尽管如此，我仍然记得自己18岁读本科时的感受。大学第一年的经历令人兴奋、解放，却又充满恐惧，这些感受交织在一起，帮助我们成长为成年人——前提是父母没有和我们一起去。",
+            "word": [
+                {
+                    "word": "Nonetheless",
+                    "translate": "adv. 尽管如此；然而"
+                },
+                {
+                    "word": "undergraduate",
+                    "translate": "n. 本科生"
+                },
+                {
+                    "word": "experience",
+                    "translate": "n. 经历；体验"
+                },
+                {
+                    "word": "liberating",
+                    "translate": "adj. 令人解放的；使人自由的"
+                },
+                {
+                    "word": "terrifying",
+                    "translate": "adj. 令人恐惧的"
+                },
+                {
+                    "word": "adulthood",
+                    "translate": "n. 成年；成人期"
+                }
+            ]
+        },
+        {
+            "text": "The young man at the counter had some sort of registration problem. It is inevitable in the first year. The woman behind the counter clearly felt, as I did, embarrassed for this young man, who was accompanied by his no doubt well-intentioned, but misguided, father.",
+            "translation": "柜台前的那位年轻人遇到了某种注册问题。这在第一年是不可避免的。柜台后的那位女士显然和我一样，为这位年轻人感到尴尬——他身旁陪着的，毫无疑问是出于好意却方向错误的父亲。",
+            "word": [
+                {
+                    "word": "counter",
+                    "translate": "n. 柜台"
+                },
+                {
+                    "word": "registration",
+                    "translate": "n. 注册；登记"
+                },
+                {
+                    "word": "inevitable",
+                    "translate": "adj. 不可避免的"
+                },
+                {
+                    "word": "embarrassed",
+                    "translate": "adj. 尴尬的"
+                },
+                {
+                    "word": "accompanied",
+                    "translate": "v. 陪同"
+                },
+                {
+                    "word": "well-intentioned",
+                    "translate": "adj. 出于好意的"
+                },
+                {
+                    "word": "misguided",
+                    "translate": "adj. 判断错误的；方向不当的"
+                }
+            ]
+        }
+    ],
+    "u3": [
+        {
+            "text": "The photographer told them that he had been asked to submit his 10 best pictures for a beauty contest run by the Nazis. So were 10 other outstanding photographers in Germany. And he sent in Hessy’s picture.",
+            "translation": "这位摄影师告诉他们，他被要求提交自己最好的十张照片，参加由纳粹举办的一场选美比赛。德国另外十位杰出的摄影师也收到了同样的邀请。而他提交了赫西的照片。",
+            "word": [
+                {
+                    "word": "photographer",
+                    "translate": "n. 摄影师"
+                },
+                {
+                    "word": "submit",
+                    "translate": "v. 提交"
+                },
+                {
+                    "word": "beauty contest",
+                    "translate": "n. 选美比赛"
+                },
+                {
+                    "word": "Nazis",
+                    "translate": "n. 纳粹"
+                },
+                {
+                    "word": "outstanding",
+                    "translate": "adj. 杰出的"
+                },
+                {
+                    "word": "picture",
+                    "translate": "n. 照片"
+                }
+            ]
+        },
+        {
+            "text": "“But you knew my Hessy is a Jewish child,” the mother exclaimed.",
+            "translation": "“可你明明知道我的赫西是个犹太孩子啊！”母亲惊呼道。",
+            "word": [
+                {
+                    "word": "knew",
+                    "translate": "v. 知道（know 的过去式）"
+                },
+                {
+                    "word": "Jewish",
+                    "translate": "adj. 犹太的；犹太人的"
+                },
+                {
+                    "word": "child",
+                    "translate": "n. 孩子"
+                },
+                {
+                    "word": "exclaimed",
+                    "translate": "v. 惊呼；喊道"
+                }
+            ]
+        },
+        {
+            "text": "“Yes,” the photographer said, explaining there had been a competition to find the perfect example of the Aryan race to further Nazi philosophy. “I wanted to allow myself the pleasure of this joke. And you see, I was right. Of all the babies, they picked this baby as the perfect Aryan.”",
+            "translation": "“是的，”摄影师说道，并解释说，当时曾有一场比赛，旨在寻找雅利安人种的完美典范，以推进纳粹的意识形态。“我只是想让自己享受一下这个玩笑的乐趣。你看，我是对的。在所有婴儿中，他们选中了这个婴儿，认为她是完美的雅利安人。”",
+            "word": [
+                {
+                    "word": "competition",
+                    "translate": "n. 比赛；竞赛"
+                },
+                {
+                    "word": "Aryan",
+                    "translate": "n./adj. 雅利安人（的）"
+                },
+                {
+                    "word": "race",
+                    "translate": "n. 种族"
+                },
+                {
+                    "word": "further",
+                    "translate": "v. 推动；促进"
+                },
+                {
+                    "word": "philosophy",
+                    "translate": "n. 思想；理念；哲学"
+                },
+                {
+                    "word": "pleasure",
+                    "translate": "n. 乐趣；快感"
+                },
+                {
+                    "word": "picked",
+                    "translate": "v. 选择；挑选"
+                }
+            ]
+        }
+    ],
+    "u4": [
+        {
+            "text": "During a week-long trip to China in January this year, I was invited to meet with Premier Li Keqiang in Beijing to discuss science. At first, I was in disbelief. After all, China is a nation of 1.3 billion people. Li, as Premier and Party Secretary of the State Council, has many pressing issues of national and international concern to attend to. In all my years as a scientist, including heading a billion-dollar U.S. research agency, this was the most significant invitation I had ever received to meet with a sitting national leader to hear his vision for science and discuss important global science matters. The fact that the Chinese Premier wanted to meet with me sent strong signals as to how China is seeing science as critical to its future well-being.",
+            "translation": "今年1月我为期一周的中国之行期间，受邀在北京与李克强总理会面，讨论科学问题。起初，我简直不敢相信。毕竟，中国是一个拥有13亿人口的国家。李克强作为国务院总理兼党组书记，需要处理许多国内外紧迫而重要的事务。在我作为科学家的所有岁月中——包括执掌一家预算达数十亿美元的美国研究机构——这是我所收到过的最重要的一次邀请：与一位在任的国家领导人会面，聆听他对科学的愿景，并讨论重要的全球科学议题。中国总理希望与我会面这一事实，强烈地表明了中国正将科学视为其未来福祉的关键。",
+            "word": [
+                {
+                    "word": "Premier",
+                    "translate": "n. 总理"
+                },
+                {
+                    "word": "disbelief",
+                    "translate": "n. 不敢相信；怀疑"
+                },
+                {
+                    "word": "pressing",
+                    "translate": "adj. 紧迫的"
+                },
+                {
+                    "word": "invitation",
+                    "translate": "n. 邀请"
+                },
+                {
+                    "word": "sitting",
+                    "translate": "adj. 在任的"
+                },
+                {
+                    "word": "vision",
+                    "translate": "n. 愿景；远见"
+                },
+                {
+                    "word": "critical",
+                    "translate": "adj. 至关重要的"
+                },
+                {
+                    "word": "well-being",
+                    "translate": "n. 福祉；幸福"
+                }
+            ]
+        }
+    ],
+    "u5": [
+        {
+            "text": "That statement still rings in my ears today, not only because of her precociousness but also because she was exactly right. We need to conserve our resources to buy ourselves time so scientists can find new solutions to our problems. And this is especially true for water.",
+            "translation": "那句话直到今天仍在我耳边回响，不仅因为她的早慧，更因为她说得完全正确。我们需要节约我们的资源，为自己争取时间，让科学家能够找到解决我们问题的新方案。而这一点对水资源来说尤为重要。",
+            "word": [
+                {
+                    "word": "rings in my ears",
+                    "translate": "短语. 在耳边回响；记忆犹新"
+                },
+                {
+                    "word": "precociousness",
+                    "translate": "n. 早慧；早熟"
+                },
+                {
+                    "word": "conserve",
+                    "translate": "v. 节约；保护"
+                },
+                {
+                    "word": "resources",
+                    "translate": "n. 资源"
+                },
+                {
+                    "word": "buy time",
+                    "translate": "短语. 争取时间"
+                },
+                {
+                    "word": "solutions",
+                    "translate": "n. 解决方案"
+                },
+                {
+                    "word": "especially",
+                    "translate": "adv. 尤其；特别"
+                }
+            ]
+        },
+        {
+            "text": "Water is on track to be the most important and most contentious resource of the 21st century. It could replace oil as the strategic resource that triggers geopolitical conflicts. But with the right solutions, it could also be the one that brings us all together.",
+            "translation": "水正朝着成为21世纪最重要、也最具争议性的资源发展。它可能会取代石油，成为引发地缘政治冲突的战略资源。但如果有正确的解决方案，它也可能成为将我们所有人凝聚在一起的资源。",
+            "word": [
+                {
+                    "word": "on track",
+                    "translate": "短语. 正在朝着某一方向发展；有望"
+                },
+                {
+                    "word": "contentious",
+                    "translate": "adj. 有争议的；引发纷争的"
+                },
+                {
+                    "word": "strategic",
+                    "translate": "adj. 战略性的"
+                },
+                {
+                    "word": "triggers",
+                    "translate": "v. 引发；触发"
+                },
+                {
+                    "word": "geopolitical",
+                    "translate": "adj. 地缘政治的"
+                },
+                {
+                    "word": "solutions",
+                    "translate": "n. 解决方案"
+                }
+            ]
+        }
+    ]
+}
