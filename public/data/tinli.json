@@ -5228,11 +5228,11 @@
                     "error_options": [
                         "9.5 percent.",
                         "37 percent.",
-                        "24 percent."
+                        "23.5 percent."
                     ],
                     "answer": {
-                        "text": "23.5 percent.",
-                        "translation": "23.5% (英语).",
+                        "text": "24 percent.",
+                        "translation": "24% (英语).",
                         "word": [
                             {
                                 "word": "percent",

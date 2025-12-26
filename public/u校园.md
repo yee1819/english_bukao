@@ -1753,7 +1753,7 @@
 
 3
 
-> 23.5 percent.
+> 24 percent.
 >
 > ---
 >
@@ -1761,7 +1761,7 @@
 >
 > 37 percent.
 >
-> 24 percent.
+> 23.5 percent.
 
 4
 
