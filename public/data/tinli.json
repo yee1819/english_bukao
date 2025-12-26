@@ -1922,6 +1922,18 @@
                     "question": [
                         {
                             "error_options": [
+                                "15.",
+                                "16.",
+                                "17."
+                            ],
+                            "answer": {
+                                "text": "14 .",
+                                "translation": "14 .",
+                                "word": []
+                            }
+                        },
+                        {
+                            "error_options": [
                                 "14 months.",
                                 "16 months.",
                                 "13 months."
